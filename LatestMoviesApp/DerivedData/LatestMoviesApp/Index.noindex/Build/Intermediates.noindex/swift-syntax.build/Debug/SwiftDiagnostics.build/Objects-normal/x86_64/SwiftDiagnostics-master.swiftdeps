@@ -1,25 +1,25 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
-options: "720224a4dffb20ba6b615c38ca72db7697f9609dbf394de77079ad6ebec3595c"
-build_start_time: [1742994853, 989290000]
-build_end_time: [1742995027, 932435000]
+options: "ffe45a4146783dcb21bb3463391b03c6aae8d29ae6206ca585d437971c76212c"
+build_start_time: [1743024686, 944201000]
+build_end_time: [1743024688, 360603000]
 inputs:
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Convenience.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Convenience.swift"
   : !dirty [1742994458, 285007556]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Diagnostic.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Diagnostic.swift"
   : !dirty [1742994458, 285171229]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticDecorators/ANSIDiagnosticDecorator.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticDecorators/ANSIDiagnosticDecorator.swift"
   : !dirty [1742994458, 285487247]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticDecorators/BasicDiagnosticDecorator.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticDecorators/BasicDiagnosticDecorator.swift"
   : !dirty [1742994458, 285667805]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticDecorators/DiagnosticDecorator.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticDecorators/DiagnosticDecorator.swift"
   : !dirty [1742994458, 285966873]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticsFormatter.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticsFormatter.swift"
   : !dirty [1742994458, 286283557]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/FixIt.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/FixIt.swift"
   : !dirty [1742994458, 286515925]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/GroupedDiagnostics.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/GroupedDiagnostics.swift"
   : !dirty [1742994458, 286851071]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Message.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Message.swift"
   : !dirty [1742994458, 287169946]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Note.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Note.swift"
   : !dirty [1742994458, 287349727]

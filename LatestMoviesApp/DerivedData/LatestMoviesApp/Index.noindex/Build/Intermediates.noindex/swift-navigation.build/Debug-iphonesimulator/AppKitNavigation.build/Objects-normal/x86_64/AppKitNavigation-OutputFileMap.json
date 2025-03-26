@@ -1,24 +1,24 @@
 {
   "" : {
-    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/AppKitNavigation.build/Objects-normal/x86_64/AppKitNavigation-master.d",
-    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/AppKitNavigation.build/Objects-normal/x86_64/AppKitNavigation-master.dia",
-    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/AppKitNavigation.build/Objects-normal/x86_64/AppKitNavigation-master-emit-module.d",
-    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/AppKitNavigation.build/Objects-normal/x86_64/AppKitNavigation-master-emit-module.dia",
-    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/AppKitNavigation.build/Objects-normal/x86_64/AppKitNavigation-master.swiftdeps"
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/AppKitNavigation.build/Objects-normal/x86_64/AppKitNavigation-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/AppKitNavigation.build/Objects-normal/x86_64/AppKitNavigation-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/AppKitNavigation.build/Objects-normal/x86_64/AppKitNavigation-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/AppKitNavigation.build/Objects-normal/x86_64/AppKitNavigation-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/AppKitNavigation.build/Objects-normal/x86_64/AppKitNavigation-master.swiftdeps"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/AppKitNavigation/AppKitAnimation.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/AppKitNavigation/AppKitAnimation.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/AppKitNavigation/Internal/Exports.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/AppKitNavigation/Internal/Exports.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/AppKitNavigation/SwiftUI/Representable.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/AppKitNavigation/SwiftUI/Representable.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/AppKitNavigation/UIBinding.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/AppKitNavigation/UIBinding.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/AppKitNavigation/UITransaction.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/AppKitNavigation/UITransaction.swift" : {
 
   }
 }

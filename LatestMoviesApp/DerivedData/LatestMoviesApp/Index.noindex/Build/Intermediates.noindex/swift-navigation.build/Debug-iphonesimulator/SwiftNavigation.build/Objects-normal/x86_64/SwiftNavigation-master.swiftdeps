@@ -1,47 +1,47 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
-options: "bf87244238e89e527c9b425a2c48734a21167840628ab0adf0723190b78f75b1"
-build_start_time: [1742995026, 912006000]
-build_end_time: [1742995027, 936508000]
+options: "8f3133792edcad3bc745bd9e2ec9efe98df093637ca2b14b22762797e6951d03"
+build_start_time: [1743024688, 183413000]
+build_end_time: [1743024688, 344008000]
 inputs:
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/AlertState.swift"
-  : [1742994457, 388542507]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Bind.swift"
-  : [1742994457, 388729186]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Binding.swift"
-  : [1742994457, 388902767]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/ButtonState.swift"
-  : [1742994457, 389636970]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/ButtonStateBuilder.swift"
-  : [1742994457, 389831034]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/ConfirmationDialogState.swift"
-  : [1742994457, 390066834]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/HashableObject.swift"
-  : [1742994457, 392395139]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/AssumeIsolated.swift"
-  : [1742994457, 392697906]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/Deprecations.swift"
-  : [1742994457, 392894094]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/ErrorMechanism.swift"
-  : [1742994457, 393038866]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/Exports.swift"
-  : [1742994457, 393189219]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/HashableStaticString.swift"
-  : [1742994457, 393335313]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/KeyPath+Sendable.swift"
-  : [1742994457, 393780950]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/ToOptionalUnit.swift"
-  : [1742994457, 393961597]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/NSObject+Observe.swift"
-  : [1742994457, 394256620]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Observe.swift"
-  : [1742994457, 394505807]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/TextState.swift"
-  : [1742994457, 395174989]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UIBindable.swift"
-  : [1742994457, 395426933]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UIBinding.swift"
-  : [1742994457, 395970167]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UINavigationPath.swift"
-  : [1742994457, 396267617]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UITransaction.swift"
-  : [1742994457, 396473341]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/AlertState.swift"
+  : !dirty [1742994457, 388542507]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Bind.swift"
+  : !dirty [1742994457, 388729186]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Binding.swift"
+  : !dirty [1742994457, 388902767]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/ButtonState.swift"
+  : !dirty [1742994457, 389636970]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/ButtonStateBuilder.swift"
+  : !dirty [1742994457, 389831034]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/ConfirmationDialogState.swift"
+  : !dirty [1742994457, 390066834]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/HashableObject.swift"
+  : !dirty [1742994457, 392395139]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/AssumeIsolated.swift"
+  : !dirty [1742994457, 392697906]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/Deprecations.swift"
+  : !dirty [1742994457, 392894094]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/ErrorMechanism.swift"
+  : !dirty [1742994457, 393038866]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/Exports.swift"
+  : !dirty [1742994457, 393189219]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/HashableStaticString.swift"
+  : !dirty [1742994457, 393335313]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/KeyPath+Sendable.swift"
+  : !dirty [1742994457, 393780950]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/ToOptionalUnit.swift"
+  : !dirty [1742994457, 393961597]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/NSObject+Observe.swift"
+  : !dirty [1742994457, 394256620]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Observe.swift"
+  : !dirty [1742994457, 394505807]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/TextState.swift"
+  : !dirty [1742994457, 395174989]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UIBindable.swift"
+  : !dirty [1742994457, 395426933]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UIBinding.swift"
+  : !dirty [1742994457, 395970167]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UINavigationPath.swift"
+  : !dirty [1742994457, 396267617]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UITransaction.swift"
+  : !dirty [1742994457, 396473341]

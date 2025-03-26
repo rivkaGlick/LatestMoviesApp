@@ -1,29 +1,29 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
-options: "0123e4beb25ab21dc148a4d72d69532c8852e1420a7af28aa5bbaca358916ad1"
-build_start_time: [1742994775, 111940000]
-build_end_time: [1742994775, 582181000]
+options: "838859d0bd505062fa19c819f2703e235122b81617bc1125596bc9cf14a36aeb"
+build_start_time: [1743024690, 101941000]
+build_end_time: [1743024690, 288674000]
 inputs:
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/CompilerPluginMessageHandler.swift"
-  : [1742994458, 281478055]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Diagnostics.swift"
-  : [1742994458, 281705789]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/CodingUtilities.swift"
-  : [1742994458, 281976604]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSON.swift"
-  : [1742994458, 282540664]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSONDecoding.swift"
-  : [1742994458, 282815927]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSONEncoding.swift"
-  : [1742994458, 283188128]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/LRUCache.swift"
-  : [1742994458, 283355302]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Macros.swift"
-  : [1742994458, 283557457]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMacroExpansionContext.swift"
-  : [1742994458, 283901283]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessageCompatibility.swift"
-  : [1742994458, 284077647]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessages.swift"
-  : [1742994458, 284302874]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/StandardIOMessageConnection.swift"
-  : [1742994458, 284547750]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/CompilerPluginMessageHandler.swift"
+  : !dirty [1742994458, 281478055]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Diagnostics.swift"
+  : !dirty [1742994458, 281705789]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/CodingUtilities.swift"
+  : !dirty [1742994458, 281976604]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSON.swift"
+  : !dirty [1742994458, 282540664]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSONDecoding.swift"
+  : !dirty [1742994458, 282815927]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSONEncoding.swift"
+  : !dirty [1742994458, 283188128]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/LRUCache.swift"
+  : !dirty [1742994458, 283355302]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Macros.swift"
+  : !dirty [1742994458, 283557457]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMacroExpansionContext.swift"
+  : !dirty [1742994458, 283901283]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessageCompatibility.swift"
+  : !dirty [1742994458, 284077647]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessages.swift"
+  : !dirty [1742994458, 284302874]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/StandardIOMessageConnection.swift"
+  : !dirty [1742994458, 284547750]

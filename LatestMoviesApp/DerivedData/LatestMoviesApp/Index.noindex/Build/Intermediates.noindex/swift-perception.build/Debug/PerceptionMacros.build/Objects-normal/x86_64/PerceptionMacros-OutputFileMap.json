@@ -1,30 +1,30 @@
 {
   "" : {
-    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master.swiftconstvalues",
-    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master.d",
-    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master.dia",
-    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master-emit-module.d",
-    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master-emit-module.dia",
-    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master.swiftdeps"
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptionMacros-master.swiftdeps"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Availability.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Availability.swift" : {
     "index-unit-output-path" : "/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Availability.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Availability.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Availability.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Availability.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Availability.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Extensions.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Extensions.swift" : {
     "index-unit-output-path" : "/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Extensions.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Extensions.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Extensions.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Extensions.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Extensions.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/PerceptibleMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/PerceptibleMacro.swift" : {
     "index-unit-output-path" : "/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptibleMacro.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptibleMacro.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptibleMacro.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptibleMacro.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/PerceptibleMacro.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Plugins.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Plugins.swift" : {
     "index-unit-output-path" : "/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Plugins.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Plugins.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Plugins.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Plugins.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug/PerceptionMacros.build/Objects-normal/x86_64/Plugins.o"
   }
 }

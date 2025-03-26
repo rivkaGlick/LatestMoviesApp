@@ -1,31 +1,31 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
-options: "ca8f7dffd0d6f58c24547af46071b0e22d1b8a6f9756ddc5a19bd4e1fa1d3a11"
-build_start_time: [1742994884, 101328000]
-build_end_time: [1742995027, 907980000]
+options: "d874e7315a970a415fb957a5b0f9cbee780200f4f1fd9c3c3fb21d2b0e6c6a14"
+build_start_time: [1743024687, 160917000]
+build_end_time: [1743024688, 324138000]
 inputs:
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/DiagnosticExtensions.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/DiagnosticExtensions.swift"
   : !dirty [1742994458, 334684826]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/LexerDiagnosticMessages.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/LexerDiagnosticMessages.swift"
   : !dirty [1742994458, 335252738]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MissingNodesError.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MissingNodesError.swift"
   : !dirty [1742994458, 336075109]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MissingTokenError.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MissingTokenError.swift"
   : !dirty [1742994458, 336516046]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MultiLineStringLiteralDiagnosticsGenerator.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/MultiLineStringLiteralDiagnosticsGenerator.swift"
   : !dirty [1742994458, 337015948]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/ParseDiagnosticsGenerator.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/ParseDiagnosticsGenerator.swift"
   : !dirty [1742994458, 337737664]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/ParserDiagnosticMessages.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/ParserDiagnosticMessages.swift"
   : !dirty [1742994458, 338296049]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/PresenceUtils.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/PresenceUtils.swift"
   : !dirty [1742994458, 338715668]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/SyntaxExtensions.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/SyntaxExtensions.swift"
   : !dirty [1742994458, 339290001]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/Utils.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/Utils.swift"
   : !dirty [1742994458, 339605603]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/ChildNameForDiagnostics.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/ChildNameForDiagnostics.swift"
   : !dirty [1742994458, 340383884]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/SyntaxKindNameForDiagnostics.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/SyntaxKindNameForDiagnostics.swift"
   : !dirty [1742994458, 341224605]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/TokenNameForDiagnostics.swift"
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParserDiagnostics/generated/TokenNameForDiagnostics.swift"
   : !dirty [1742994458, 341735255]

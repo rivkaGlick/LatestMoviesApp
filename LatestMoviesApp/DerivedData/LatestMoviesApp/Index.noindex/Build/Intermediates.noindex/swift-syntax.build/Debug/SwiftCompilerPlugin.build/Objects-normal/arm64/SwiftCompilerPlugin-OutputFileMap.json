@@ -1,15 +1,15 @@
 {
   "" : {
-    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master.swiftconstvalues",
-    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master.d",
-    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master.dia",
-    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master-emit-module.d",
-    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master-emit-module.dia",
-    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master.swiftdeps"
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/SwiftCompilerPlugin-master.swiftdeps"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPlugin/CompilerPlugin.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPlugin/CompilerPlugin.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/CompilerPlugin.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/CompilerPlugin.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/CompilerPlugin.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/CompilerPlugin.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPlugin.build/Objects-normal/arm64/CompilerPlugin.o"
   }
 }

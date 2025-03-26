@@ -1,63 +1,63 @@
 {
   "" : {
-    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacros.build/Objects-normal/x86_64/SwiftSyntaxMacros-master.d",
-    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacros.build/Objects-normal/x86_64/SwiftSyntaxMacros-master.dia",
-    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacros.build/Objects-normal/x86_64/SwiftSyntaxMacros-master-emit-module.d",
-    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacros.build/Objects-normal/x86_64/SwiftSyntaxMacros-master-emit-module.dia",
-    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacros.build/Objects-normal/x86_64/SwiftSyntaxMacros-master.swiftdeps"
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacros.build/Objects-normal/x86_64/SwiftSyntaxMacros-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacros.build/Objects-normal/x86_64/SwiftSyntaxMacros-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacros.build/Objects-normal/x86_64/SwiftSyntaxMacros-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacros.build/Objects-normal/x86_64/SwiftSyntaxMacros-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacros.build/Objects-normal/x86_64/SwiftSyntaxMacros-master.swiftdeps"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/AbstractSourceLocation.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/AbstractSourceLocation.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroExpansionContext.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroExpansionContext.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroExpansionDiagnosticMessages.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroExpansionDiagnosticMessages.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/AccessorMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/AccessorMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/AttachedMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/AttachedMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/BodyMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/BodyMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/CodeItemMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/CodeItemMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/DeclarationMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/DeclarationMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/ExpressionMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/ExpressionMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/ExtensionMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/ExtensionMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/FreestandingMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/FreestandingMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/Macro+Format.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/Macro+Format.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/Macro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/Macro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/MemberAttributeMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/MemberAttributeMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/MemberMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/MemberMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/PeerMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/PeerMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/PreambleMacro.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/PreambleMacro.swift" : {
 
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/Syntax+LexicalContext.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/Syntax+LexicalContext.swift" : {
 
   }
 }

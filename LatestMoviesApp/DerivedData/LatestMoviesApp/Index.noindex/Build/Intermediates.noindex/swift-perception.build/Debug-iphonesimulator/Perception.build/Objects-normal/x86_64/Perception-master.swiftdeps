@@ -1,9 +1,9 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
-options: "0cdbf1e1fc3e58be36fc5dffb2b75ef1e9eb34723345343aaa9f403da16c66f0"
-build_start_time: [1742995026, 64686000]
-build_end_time: [1742995027, 909698000]
+options: "83526e0157cfa29556ca7ebc9709588686c043b0d23cda40bff9d478ba3d927d"
+build_start_time: [1743024688, 42121000]
+build_end_time: [1743024688, 355601000]
 inputs:
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/Perception/Exports.swift"
-  : [1742994456, 864778538]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/Perception/Macros.swift"
-  : [1742994456, 864989420]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/Perception/Exports.swift"
+  : !dirty [1742994456, 864778538]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/Perception/Macros.swift"
+  : !dirty [1742994456, 864989420]

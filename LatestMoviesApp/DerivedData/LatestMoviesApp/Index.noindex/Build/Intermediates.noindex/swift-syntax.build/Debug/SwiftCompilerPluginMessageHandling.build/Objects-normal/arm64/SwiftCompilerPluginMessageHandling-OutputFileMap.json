@@ -1,70 +1,70 @@
 {
   "" : {
-    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.swiftconstvalues",
-    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.d",
-    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.dia",
-    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master-emit-module.d",
-    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master-emit-module.dia",
-    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.swiftdeps"
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/SwiftCompilerPluginMessageHandling-master.swiftdeps"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/CompilerPluginMessageHandler.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/CompilerPluginMessageHandler.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CompilerPluginMessageHandler.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CompilerPluginMessageHandler.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CompilerPluginMessageHandler.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CompilerPluginMessageHandler.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CompilerPluginMessageHandler.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Diagnostics.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Diagnostics.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Diagnostics.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Diagnostics.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Diagnostics.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Diagnostics.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Diagnostics.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/CodingUtilities.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/CodingUtilities.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CodingUtilities.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CodingUtilities.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CodingUtilities.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CodingUtilities.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/CodingUtilities.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSON.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSON.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSON.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSON.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSON.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSON.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSON.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSONDecoding.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSONDecoding.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSONDecoding.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSONDecoding.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSONDecoding.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSONDecoding.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSONDecoding.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSONEncoding.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/JSON/JSONEncoding.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSONEncoding.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSONEncoding.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSONEncoding.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSONEncoding.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/JSONEncoding.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/LRUCache.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/LRUCache.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/LRUCache.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/LRUCache.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/LRUCache.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/LRUCache.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/LRUCache.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Macros.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/Macros.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Macros.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Macros.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Macros.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Macros.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/Macros.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMacroExpansionContext.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMacroExpansionContext.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMacroExpansionContext.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMacroExpansionContext.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMacroExpansionContext.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMacroExpansionContext.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMacroExpansionContext.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessageCompatibility.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessageCompatibility.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessageCompatibility.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessageCompatibility.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessageCompatibility.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessageCompatibility.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessageCompatibility.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessages.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/PluginMessages.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessages.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessages.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessages.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessages.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/PluginMessages.o"
   },
-  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/StandardIOMessageConnection.swift" : {
+  "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPluginMessageHandling/StandardIOMessageConnection.swift" : {
     "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/StandardIOMessageConnection.o",
-    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/StandardIOMessageConnection.bc",
-    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/StandardIOMessageConnection.o"
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/StandardIOMessageConnection.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftCompilerPluginMessageHandling.build/Objects-normal/arm64/StandardIOMessageConnection.o"
   }
 }

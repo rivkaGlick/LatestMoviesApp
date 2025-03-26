@@ -1,7 +1,7 @@
 version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
-options: "f111798c34b131ce83e898ef86b35b4d5c8fb788e286850c0593ea2dd90ad9ef"
-build_start_time: [1742994640, 7514000]
-build_end_time: [1742994761, 85882000]
+options: "ce98662bc45755950ef9831f6e646e5e64dbe75ee4d691447cf4e1c59790e747"
+build_start_time: [1743024684, 744364000]
+build_end_time: [1743024688, 337419000]
 inputs:
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/VersionMarkerModules/SwiftSyntax600/Empty.swift"
-  : [1742994458, 446569866]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/VersionMarkerModules/SwiftSyntax600/Empty.swift"
+  : !dirty [1742994458, 446569866]
