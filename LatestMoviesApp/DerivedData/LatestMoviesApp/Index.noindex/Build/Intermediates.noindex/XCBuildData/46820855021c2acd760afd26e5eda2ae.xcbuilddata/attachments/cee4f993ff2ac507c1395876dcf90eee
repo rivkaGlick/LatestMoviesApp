@@ -1,0 +1,45 @@
+{
+  "" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ComposableArchitectureMacros-master.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ComposableArchitectureMacros-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ComposableArchitectureMacros-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ComposableArchitectureMacros-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ComposableArchitectureMacros-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ComposableArchitectureMacros-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitectureMacros/Availability.swift" : {
+    "index-unit-output-path" : "/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/Availability.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/Availability.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/Availability.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitectureMacros/Extensions.swift" : {
+    "index-unit-output-path" : "/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/Extensions.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/Extensions.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/Extensions.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitectureMacros/ObservableStateMacro.swift" : {
+    "index-unit-output-path" : "/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ObservableStateMacro.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ObservableStateMacro.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ObservableStateMacro.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitectureMacros/Plugins.swift" : {
+    "index-unit-output-path" : "/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/Plugins.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/Plugins.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/Plugins.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitectureMacros/PresentsMacro.swift" : {
+    "index-unit-output-path" : "/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/PresentsMacro.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/PresentsMacro.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/PresentsMacro.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitectureMacros/ReducerMacro.swift" : {
+    "index-unit-output-path" : "/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ReducerMacro.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ReducerMacro.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ReducerMacro.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitectureMacros/ViewActionMacro.swift" : {
+    "index-unit-output-path" : "/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ViewActionMacro.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ViewActionMacro.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-composable-architecture.build/Debug/ComposableArchitectureMacros.build/Objects-normal/x86_64/ViewActionMacro.o"
+  }
+}

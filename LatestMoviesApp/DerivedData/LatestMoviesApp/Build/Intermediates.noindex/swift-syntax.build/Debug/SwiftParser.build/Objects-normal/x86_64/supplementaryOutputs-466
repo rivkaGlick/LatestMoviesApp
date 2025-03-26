@@ -1,0 +1,18 @@
+"/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/SwiftVersion.swift":
+  object: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SwiftVersion.o"
+  swift-dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SwiftVersion.swiftdeps"
+  dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SwiftVersion.d"
+  diagnostics: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SwiftVersion.dia"
+  const-values: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SwiftVersion.swiftconstvalues"
+"/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/SwiftParserCompatibility.swift":
+  diagnostics: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SwiftParserCompatibility.dia"
+  swift-dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SwiftParserCompatibility.swiftdeps"
+  object: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SwiftParserCompatibility.o"
+  dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SwiftParserCompatibility.d"
+  const-values: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SwiftParserCompatibility.swiftconstvalues"
+"/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/SyntaxUtils.swift":
+  swift-dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SyntaxUtils.swiftdeps"
+  diagnostics: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SyntaxUtils.dia"
+  object: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SyntaxUtils.o"
+  dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SyntaxUtils.d"
+  const-values: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftParser.build/Objects-normal/x86_64/SyntaxUtils.swiftconstvalues"

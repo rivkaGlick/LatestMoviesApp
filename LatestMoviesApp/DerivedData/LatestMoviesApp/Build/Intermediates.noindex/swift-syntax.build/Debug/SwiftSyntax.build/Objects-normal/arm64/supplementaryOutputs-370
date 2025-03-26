@@ -1,0 +1,24 @@
+"/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxCollections.swift":
+  dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.d"
+  const-values: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.swiftconstvalues"
+  swift-dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.swiftdeps"
+  object: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.o"
+  diagnostics: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxCollections.dia"
+"/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxEnum.swift":
+  object: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.o"
+  dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.d"
+  diagnostics: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.dia"
+  const-values: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.swiftconstvalues"
+  swift-dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxEnum.swiftdeps"
+"/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxRewriter.swift":
+  diagnostics: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.dia"
+  const-values: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.swiftconstvalues"
+  object: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.o"
+  dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.d"
+  swift-dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxRewriter.swiftdeps"
+"/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntax/generated/SyntaxKind.swift":
+  swift-dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.swiftdeps"
+  dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.d"
+  diagnostics: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.dia"
+  const-values: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.swiftconstvalues"
+  object: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax.build/Objects-normal/arm64/SyntaxKind.o"

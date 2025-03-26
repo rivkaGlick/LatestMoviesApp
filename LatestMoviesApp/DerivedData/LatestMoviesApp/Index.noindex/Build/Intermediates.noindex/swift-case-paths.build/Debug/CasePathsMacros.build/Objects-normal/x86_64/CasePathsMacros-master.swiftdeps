@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "f03a1ac5b799a3f6d83b8578e3fe92c97153215a26edd09b56de2585bdd5443f"
+build_start_time: [1742995025, 798163000]
+build_end_time: [1742995027, 943584000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsMacros/CasePathableMacro.swift"
+  : !dirty [1742994460, 340956892]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsMacros/Plugin.swift"
+  : !dirty [1742994460, 341336367]

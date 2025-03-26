@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "4b6a05cc4009cd45351773af93a46d6af8d984cee6a823b5d2d5b99eb9f4e096"
+build_start_time: [1742994642, 582526000]
+build_end_time: [1742994761, 131692000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Deprecations.swift"
+  : [1742994454, 465890643]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Exports.swift"
+  : [1742994454, 466261046]

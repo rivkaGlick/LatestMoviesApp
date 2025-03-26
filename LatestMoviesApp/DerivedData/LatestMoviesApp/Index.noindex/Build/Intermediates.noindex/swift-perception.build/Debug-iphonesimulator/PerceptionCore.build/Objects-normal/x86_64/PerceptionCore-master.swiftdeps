@@ -1,0 +1,33 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "548fca90ef8e5ebf7dc94bca07ed82846d94d4f43fbe99180ad1ec16f99b6653"
+build_start_time: [1742994642, 586128000]
+build_end_time: [1742994761, 101027000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/Bindable.swift"
+  : [1742994456, 865249996]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/Environment.swift"
+  : [1742994456, 865420120]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/Internal/AnySendable.swift"
+  : [1742994456, 865774597]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/Internal/BetaChecking.swift"
+  : [1742994456, 866010336]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/Internal/Exports.swift"
+  : [1742994456, 866230512]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/Internal/Locking.swift"
+  : [1742994456, 866462045]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/Internal/ThreadLocal.swift"
+  : [1742994456, 866764127]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/Internal/Unchecked.swift"
+  : [1742994456, 867057083]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/Internal/_PerceptionRegistrar.swift"
+  : [1742994456, 867606356]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/Perceptible.swift"
+  : [1742994456, 867996487]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/PerceptionChecking.swift"
+  : [1742994456, 868245920]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/PerceptionRegistrar.swift"
+  : [1742994456, 868611449]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/PerceptionTracking.swift"
+  : [1742994456, 868914526]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionCore/WithPerceptionTracking.swift"
+  : [1742994456, 869200121]

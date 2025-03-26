@@ -1,0 +1,24 @@
+"/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDelegate.swift":
+  diagnostics: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.dia"
+  dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.d"
+  const-values: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.swiftconstvalues"
+  swift-dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.swiftdeps"
+  object: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.o"
+"/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageContext.swift":
+  object: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageContext.o"
+  diagnostics: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageContext.dia"
+  dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageContext.d"
+  const-values: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageContext.swiftconstvalues"
+  swift-dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageContext.swiftdeps"
+"/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageBinder.swift":
+  dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageBinder.d"
+  const-values: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageBinder.swiftconstvalues"
+  object: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageBinder.o"
+  swift-dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageBinder.swiftdeps"
+  diagnostics: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageBinder.dia"
+"/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDataTask.swift":
+  const-values: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.swiftconstvalues"
+  object: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.o"
+  swift-dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.swiftdeps"
+  diagnostics: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.dia"
+  dependencies: "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.d"

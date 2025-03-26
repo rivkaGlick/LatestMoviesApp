@@ -1,0 +1,95 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "d648388bd28cf9d007cc5e8960361e0a2d5608d9502f3ad200b8577560782657"
+build_start_time: [1742994853, 997862000]
+build_end_time: [1742995027, 951960000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Attributes.swift"
+  : !dirty [1742994458, 294719473]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Availability.swift"
+  : !dirty [1742994458, 295242934]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/CharacterInfo.swift"
+  : !dirty [1742994458, 296471153]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/CollectionNodes+Parsable.swift"
+  : !dirty [1742994458, 296994298]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Declarations.swift"
+  : !dirty [1742994458, 297798315]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Directives.swift"
+  : !dirty [1742994458, 299982660]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/ExpressionInterpretedAsVersionTuple.swift"
+  : !dirty [1742994458, 300370900]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Expressions.swift"
+  : !dirty [1742994458, 301650370]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/IncrementalParseTransition.swift"
+  : !dirty [1742994458, 302683552]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/IsValidIdentifier.swift"
+  : !dirty [1742994458, 303355066]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Lexer/Cursor.swift"
+  : !dirty [1742994458, 304724993]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Lexer/Lexeme.swift"
+  : !dirty [1742994458, 306190404]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Lexer/LexemeSequence.swift"
+  : !dirty [1742994458, 306751094]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Lexer/Lexer.swift"
+  : !dirty [1742994458, 307063859]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Lexer/RegexLiteralLexer.swift"
+  : !dirty [1742994458, 307681658]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Lexer/UnicodeScalarExtensions.swift"
+  : !dirty [1742994458, 308239471]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Lookahead.swift"
+  : !dirty [1742994458, 308991411]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/LoopProgressCondition.swift"
+  : !dirty [1742994458, 309283964]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Modifiers.swift"
+  : !dirty [1742994458, 309754251]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Names.swift"
+  : !dirty [1742994458, 310152332]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Nominals.swift"
+  : !dirty [1742994458, 310544831]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Parameters.swift"
+  : !dirty [1742994458, 310988696]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/ParseSourceFile.swift"
+  : !dirty [1742994458, 311876595]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Parser.swift"
+  : !dirty [1742994458, 312354019]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Patterns.swift"
+  : !dirty [1742994458, 312770250]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Recovery.swift"
+  : !dirty [1742994458, 313625197]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Specifiers.swift"
+  : !dirty [1742994458, 314012522]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Statements.swift"
+  : !dirty [1742994458, 314478765]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/StringLiteralRepresentedLiteralValue.swift"
+  : !dirty [1742994458, 314743381]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/StringLiterals.swift"
+  : !dirty [1742994458, 315038906]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/SwiftParserCompatibility.swift"
+  : !dirty [1742994458, 317829711]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/SwiftVersion.swift"
+  : !dirty [1742994458, 318209912]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/SyntaxUtils.swift"
+  : !dirty [1742994458, 318597378]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TokenConsumer.swift"
+  : !dirty [1742994458, 319142257]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TokenPrecedence.swift"
+  : !dirty [1742994458, 320112721]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TokenSpec.swift"
+  : !dirty [1742994458, 320621486]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TokenSpecSet.swift"
+  : !dirty [1742994458, 321251350]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TopLevel.swift"
+  : !dirty [1742994458, 321901442]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/TriviaParser.swift"
+  : !dirty [1742994458, 326455376]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/Types.swift"
+  : !dirty [1742994458, 329700809]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/generated/ExperimentalFeatures.swift"
+  : !dirty [1742994458, 331032275]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/generated/IsLexerClassified.swift"
+  : !dirty [1742994458, 331616394]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/generated/LayoutNodes+Parsable.swift"
+  : !dirty [1742994458, 332041141]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/generated/Parser+TokenSpecSet.swift"
+  : !dirty [1742994458, 332904865]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftParser/generated/TokenSpecStaticMembers.swift"
+  : !dirty [1742994458, 333637173]

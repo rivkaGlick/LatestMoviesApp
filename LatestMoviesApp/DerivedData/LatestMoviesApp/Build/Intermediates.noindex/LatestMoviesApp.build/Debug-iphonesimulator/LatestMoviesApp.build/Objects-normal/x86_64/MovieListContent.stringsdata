@@ -1,0 +1,16 @@
+{
+  "source": "/Users/rivkiglick/Desktop/LatestMoviesApp/LatestMoviesApp/Features/MovieList/MovieListContent.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Loading movies...",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 44
+        }
+      }
+    ]
+  },
+  "version": 1
+}

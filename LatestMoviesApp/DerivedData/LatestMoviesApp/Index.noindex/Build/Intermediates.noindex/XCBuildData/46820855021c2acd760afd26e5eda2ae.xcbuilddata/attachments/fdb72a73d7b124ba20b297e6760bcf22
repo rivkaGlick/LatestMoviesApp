@@ -1,0 +1,4 @@
+module CasePathsMacros {
+header "CasePathsMacros-Swift.h"
+export *
+}

@@ -1,0 +1,27 @@
+{
+  "" : {
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-collections.build/Debug-iphonesimulator/HeapModule.build/Objects-normal/x86_64/HeapModule-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-collections.build/Debug-iphonesimulator/HeapModule.build/Objects-normal/x86_64/HeapModule-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-collections.build/Debug-iphonesimulator/HeapModule.build/Objects-normal/x86_64/HeapModule-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-collections.build/Debug-iphonesimulator/HeapModule.build/Objects-normal/x86_64/HeapModule-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-collections.build/Debug-iphonesimulator/HeapModule.build/Objects-normal/x86_64/HeapModule-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/HeapModule/Heap+Descriptions.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/HeapModule/Heap+ExpressibleByArrayLiteral.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/HeapModule/Heap+Invariants.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/HeapModule/Heap+UnsafeHandle.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/HeapModule/Heap.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/HeapModule/_HeapNode.swift" : {
+
+  }
+}

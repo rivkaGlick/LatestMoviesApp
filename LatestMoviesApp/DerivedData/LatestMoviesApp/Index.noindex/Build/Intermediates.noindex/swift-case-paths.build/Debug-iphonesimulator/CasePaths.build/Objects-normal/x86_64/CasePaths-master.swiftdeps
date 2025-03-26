@@ -1,0 +1,17 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "39228f217fef0edba2f155ed18d13b56acae94ab5d6279c3ed514f62cbb1442f"
+build_start_time: [1742995026, 182191000]
+build_end_time: [1742995027, 942895000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/EnumReflection.swift"
+  : [1742994460, 332334748]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Internal/Deprecations.swift"
+  : [1742994460, 333164998]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Internal/Exports.swift"
+  : [1742994460, 333624450]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Internal/LockIsolated.swift"
+  : [1742994460, 333884493]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Macros.swift"
+  : [1742994460, 334103444]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/XCTestSupport.swift"
+  : [1742994460, 334353358]

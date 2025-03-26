@@ -1,0 +1,4 @@
+module SwiftSyntaxMacrosGenericTestSupport {
+header "SwiftSyntaxMacrosGenericTestSupport-Swift.h"
+export *
+}

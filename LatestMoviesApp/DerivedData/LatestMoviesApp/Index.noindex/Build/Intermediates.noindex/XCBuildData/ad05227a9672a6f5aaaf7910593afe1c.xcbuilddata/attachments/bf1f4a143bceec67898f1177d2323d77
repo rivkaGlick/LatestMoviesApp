@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphoneos/XCTestDynamicOverlay.build/Objects-normal/arm64/XCTestDynamicOverlay-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphoneos/XCTestDynamicOverlay.build/Objects-normal/arm64/XCTestDynamicOverlay-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphoneos/XCTestDynamicOverlay.build/Objects-normal/arm64/XCTestDynamicOverlay-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphoneos/XCTestDynamicOverlay.build/Objects-normal/arm64/XCTestDynamicOverlay-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphoneos/XCTestDynamicOverlay.build/Objects-normal/arm64/XCTestDynamicOverlay-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Deprecations.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Exports.swift" : {
+
+  }
+}

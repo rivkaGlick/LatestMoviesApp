@@ -1,0 +1,4 @@
+module SwiftLibraryPluginProvider {
+header "SwiftLibraryPluginProvider-Swift.h"
+export *
+}

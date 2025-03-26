@@ -1,0 +1,72 @@
+{
+  "" : {
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphoneos/SwiftNavigation.build/Objects-normal/arm64/SwiftNavigation-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphoneos/SwiftNavigation.build/Objects-normal/arm64/SwiftNavigation-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphoneos/SwiftNavigation.build/Objects-normal/arm64/SwiftNavigation-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphoneos/SwiftNavigation.build/Objects-normal/arm64/SwiftNavigation-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-navigation.build/Debug-iphoneos/SwiftNavigation.build/Objects-normal/arm64/SwiftNavigation-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/AlertState.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Bind.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Binding.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/ButtonState.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/ButtonStateBuilder.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/ConfirmationDialogState.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/HashableObject.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/AssumeIsolated.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/Deprecations.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/ErrorMechanism.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/Exports.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/HashableStaticString.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/KeyPath+Sendable.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Internal/ToOptionalUnit.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/NSObject+Observe.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/Observe.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/TextState.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UIBindable.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UIBinding.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UINavigationPath.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/SwiftNavigation/UITransaction.swift" : {
+
+  }
+}

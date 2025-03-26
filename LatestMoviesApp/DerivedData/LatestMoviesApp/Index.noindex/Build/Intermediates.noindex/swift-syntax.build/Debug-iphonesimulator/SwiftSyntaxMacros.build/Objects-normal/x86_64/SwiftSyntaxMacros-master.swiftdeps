@@ -1,0 +1,41 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "ee5e118aed500b4b1c426e3be74a57381ce2bf6a4745934e0714ca6de1d68c9a"
+build_start_time: [1742994774, 485650000]
+build_end_time: [1742994775, 559790000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/AbstractSourceLocation.swift"
+  : [1742994458, 435546723]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroExpansionContext.swift"
+  : [1742994458, 436439778]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroExpansionDiagnosticMessages.swift"
+  : [1742994458, 436859795]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/AccessorMacro.swift"
+  : [1742994458, 437669978]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/AttachedMacro.swift"
+  : [1742994458, 438276689]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/BodyMacro.swift"
+  : [1742994458, 438683316]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/CodeItemMacro.swift"
+  : [1742994458, 438978808]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/DeclarationMacro.swift"
+  : [1742994458, 439185663]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/ExpressionMacro.swift"
+  : [1742994458, 439435326]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/ExtensionMacro.swift"
+  : [1742994458, 439788162]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/FreestandingMacro.swift"
+  : [1742994458, 440010748]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/Macro+Format.swift"
+  : [1742994458, 440251018]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/Macro.swift"
+  : [1742994458, 440609691]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/MemberAttributeMacro.swift"
+  : [1742994458, 440913305]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/MemberMacro.swift"
+  : [1742994458, 441165906]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/PeerMacro.swift"
+  : [1742994458, 441532482]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/MacroProtocols/PreambleMacro.swift"
+  : [1742994458, 441879400]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacros/Syntax+LexicalContext.swift"
+  : [1742994458, 443460722]

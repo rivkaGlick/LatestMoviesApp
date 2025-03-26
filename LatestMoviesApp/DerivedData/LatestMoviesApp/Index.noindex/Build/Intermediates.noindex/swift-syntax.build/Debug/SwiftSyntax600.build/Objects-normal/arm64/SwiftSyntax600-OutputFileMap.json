@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax600.build/Objects-normal/arm64/SwiftSyntax600-master.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax600.build/Objects-normal/arm64/SwiftSyntax600-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax600.build/Objects-normal/arm64/SwiftSyntax600-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax600.build/Objects-normal/arm64/SwiftSyntax600-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax600.build/Objects-normal/arm64/SwiftSyntax600-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax600.build/Objects-normal/arm64/SwiftSyntax600-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/VersionMarkerModules/SwiftSyntax600/Empty.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftSyntax600.build/Objects-normal/arm64/Empty.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax600.build/Objects-normal/arm64/Empty.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftSyntax600.build/Objects-normal/arm64/Empty.o"
+  }
+}

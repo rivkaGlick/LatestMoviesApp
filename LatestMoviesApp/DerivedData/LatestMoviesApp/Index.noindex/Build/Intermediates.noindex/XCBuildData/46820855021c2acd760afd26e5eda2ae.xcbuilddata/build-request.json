@@ -1,0 +1,251 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "PACKAGE-PRODUCT:CombineSchedulers"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:SwiftIDEUtils"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:SwiftLibraryPluginProvider"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:SwiftRefactor"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:SwiftSyntaxMacrosGenericTestSupport"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:SwiftSyntaxMacrosTestSupport"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:_SwiftLibraryPluginProviderCShims"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:_SwiftSyntaxGenericTestSupport"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftBasicFormat"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftCompilerPlugin"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftDiagnostics"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftIDEUtils"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftOperators"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftParser"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftParserDiagnostics"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftRefactor"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftSyntax"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftSyntaxBuilder"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftSyntaxMacroExpansion"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftSyntaxMacros"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftSyntaxMacrosGenericTestSupport"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftSyntaxMacrosTestSupport"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:_SwiftCompilerPluginMessageHandling"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:_SwiftLibraryPluginProvider"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:CasePathsMacros-AA84AFA6D0B6CF0-testable"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:CasePaths"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:CasePathsCore"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:AppKitNavigation"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:AppKitNavigation"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftNavigation"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SwiftUINavigation"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:UIKitNavigation"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:DependenciesMacrosPlugin--7B88F240D9724C4D-testable"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:DependenciesTestSupport"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:Dependencies"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:DependenciesMacros"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:DependenciesTestSupport"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:Sharing"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:Kingfisher"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:ComposableArchitectureMacros--604855770BB43197-testable"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:ComposableArchitecture"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:ConcurrencyExtras"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:PerceptionMacros-6EBA1AD24AD6DB8E-testable"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:Perception"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:PerceptionCore"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:CustomDump"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:Clocks"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:IdentifiedCollections"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:BitCollections"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:Collections"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:DequeModule"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:HashTreeCollections"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:HeapModule"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:_RopeModule"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:BitCollections"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:Collections"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:DequeModule"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:HashTreeCollections"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:HeapModule"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:OrderedCollections"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:_RopeModule"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:IssueReportingTestSupport"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:IssueReporting"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:IssueReportingTestSupport"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:XCTestDynamicOverlay"
+    }
+  ],
+  "containerPath" : "/Users/rivkiglick/Desktop/LatestMoviesApp/LatestMoviesApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Products",
+      "pchPath" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

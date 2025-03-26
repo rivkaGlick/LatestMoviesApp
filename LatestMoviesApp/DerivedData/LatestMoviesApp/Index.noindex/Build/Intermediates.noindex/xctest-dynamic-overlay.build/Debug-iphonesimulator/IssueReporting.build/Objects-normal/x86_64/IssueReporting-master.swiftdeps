@@ -1,0 +1,45 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "9ff11a04b85dde1336425de74daec1a9b9e8ec873e48b8aa5334f8f5f5d09bb1"
+build_start_time: [1742994640, 30426000]
+build_end_time: [1742994761, 108639000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/ErrorReporting.swift"
+  : [1742994454, 453454989]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/AppHostWarning.swift"
+  : [1742994454, 453959009]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/Deprecations.swift"
+  : [1742994454, 454297186]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/FailureObserver.swift"
+  : [1742994454, 455397316]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/LockIsolated.swift"
+  : [1742994454, 456053316]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/Rethrows.swift"
+  : [1742994454, 456684605]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/SwiftTesting.swift"
+  : [1742994454, 457130623]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/UncheckedSendable.swift"
+  : [1742994454, 457418822]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/Warn.swift"
+  : [1742994454, 457689748]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/XCTest.swift"
+  : [1742994454, 457944449]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IsTesting.swift"
+  : [1742994454, 458188981]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IssueReporter.swift"
+  : [1742994454, 458532607]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IssueReporters/BreakpointReporter.swift"
+  : [1742994454, 458936928]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IssueReporters/FatalErrorReporter.swift"
+  : [1742994454, 459213881]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IssueReporters/RuntimeWarningReporter.swift"
+  : [1742994454, 459462166]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/ReportIssue.swift"
+  : [1742994454, 459754553]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/TestContext.swift"
+  : [1742994454, 460019684]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Unimplemented.swift"
+  : [1742994454, 460564720]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/WithExpectedIssue.swift"
+  : [1742994454, 461043026]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/WithIssueContext.swift"
+  : [1742994454, 461308230]

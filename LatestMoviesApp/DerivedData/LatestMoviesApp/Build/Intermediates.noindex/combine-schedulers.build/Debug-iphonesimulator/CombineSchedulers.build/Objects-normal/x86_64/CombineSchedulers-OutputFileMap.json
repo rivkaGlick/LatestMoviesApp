@@ -1,0 +1,128 @@
+{
+  "" : {
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/CombineSchedulers-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/CombineSchedulers-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/CombineSchedulers-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/CombineSchedulers-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/AnyScheduler.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/AnyScheduler.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/AnyScheduler.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/AnyScheduler.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/AnyScheduler.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/AnyScheduler.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/AnyScheduler.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/AnyScheduler.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/AnyScheduler~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/Concurrency.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Concurrency.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Concurrency.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Concurrency.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Concurrency.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Concurrency.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Concurrency.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Concurrency.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Concurrency~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/ImmediateScheduler.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/ImmediateScheduler.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/ImmediateScheduler.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/ImmediateScheduler.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/ImmediateScheduler.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/ImmediateScheduler.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/ImmediateScheduler.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/ImmediateScheduler.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/ImmediateScheduler~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/Deprecations.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Deprecations.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Deprecations.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Deprecations.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Deprecations.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Deprecations.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Deprecations.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Deprecations.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Deprecations~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/Lock.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Lock.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Lock.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Lock.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Lock.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Lock.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Lock.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Lock.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Lock~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/NSRecursiveLock.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/NSRecursiveLock.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/NSRecursiveLock.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/NSRecursiveLock.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/NSRecursiveLock.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/NSRecursiveLock.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/NSRecursiveLock.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/NSRecursiveLock.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/NSRecursiveLock~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/SwiftUI.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/SwiftUI.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/SwiftUI.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/SwiftUI.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/SwiftUI.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/SwiftUI.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/SwiftUI.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/SwiftUI.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/SwiftUI~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/TestScheduler.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/TestScheduler.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/TestScheduler.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/TestScheduler.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/TestScheduler.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/TestScheduler.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/TestScheduler.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/TestScheduler.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/TestScheduler~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/Timer.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Timer.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Timer.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Timer.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Timer.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Timer.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Timer.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Timer.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/Timer~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/UIKit.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIKit.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIKit.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIKit.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIKit.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIKit.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIKit.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIKit.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIKit~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/UIScheduler.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIScheduler.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIScheduler.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIScheduler.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIScheduler.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIScheduler.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIScheduler.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIScheduler.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UIScheduler~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/combine-schedulers/Sources/CombineSchedulers/UnimplementedScheduler.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UnimplementedScheduler.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UnimplementedScheduler.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UnimplementedScheduler.dia",
+    "index-unit-output-path" : "/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UnimplementedScheduler.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UnimplementedScheduler.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UnimplementedScheduler.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UnimplementedScheduler.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/combine-schedulers.build/Debug-iphonesimulator/CombineSchedulers.build/Objects-normal/x86_64/UnimplementedScheduler~partial.swiftmodule"
+  }
+}

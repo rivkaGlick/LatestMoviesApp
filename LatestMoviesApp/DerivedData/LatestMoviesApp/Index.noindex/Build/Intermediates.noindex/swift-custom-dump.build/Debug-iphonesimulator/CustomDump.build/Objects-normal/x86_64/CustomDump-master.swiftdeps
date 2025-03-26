@@ -1,0 +1,63 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "0c983742c5dc53e7392718809424ee144220cec8b4ff6509ccdd2dde548a48ea"
+build_start_time: [1742994642, 995726000]
+build_end_time: [1742994761, 112114000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/CoreImage.swift"
+  : [1742994455, 291902690]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/CoreLocation.swift"
+  : [1742994455, 292121294]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/CoreMotion.swift"
+  : [1742994455, 292295270]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/Foundation.swift"
+  : [1742994455, 292499189]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/GameKit.swift"
+  : [1742994455, 292684967]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/KeyPath.swift"
+  : [1742994455, 292850734]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/Photos.swift"
+  : [1742994455, 292998722]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/Speech.swift"
+  : [1742994455, 293153054]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/StoreKit.swift"
+  : [1742994455, 293300726]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/Swift.swift"
+  : [1742994455, 293460951]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/SwiftUI.swift"
+  : [1742994455, 293633882]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/UIKit.swift"
+  : [1742994455, 293809372]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/UserNotifications.swift"
+  : [1742994455, 293992308]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/UserNotificationsUI.swift"
+  : [1742994455, 294136818]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/CustomDumpReflectable.swift"
+  : [1742994455, 294299324]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/CustomDumpRepresentable.swift"
+  : [1742994455, 294458670]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/CustomDumpStringConvertible.swift"
+  : [1742994455, 294619848]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Diff.swift"
+  : [1742994455, 294884933]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Dump.swift"
+  : [1742994455, 296001782]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/ExpectDifference.swift"
+  : [1742994455, 296200882]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/ExpectNoDifference.swift"
+  : [1742994455, 296362063]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/AnyType.swift"
+  : [1742994455, 296606390]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/CollectionDifference.swift"
+  : [1742994455, 296763428]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/Identifiable.swift"
+  : [1742994455, 296916955]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/Mirror.swift"
+  : [1742994455, 297066472]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/String.swift"
+  : [1742994455, 297221291]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/Unordered.swift"
+  : [1742994455, 297370916]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/XCTAssertDifference.swift"
+  : [1742994455, 297525839]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/XCTAssertNoDifference.swift"
+  : [1742994455, 297695532]

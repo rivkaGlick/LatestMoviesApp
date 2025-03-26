@@ -1,0 +1,238 @@
+{
+  "" : {
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Sharing-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Sharing-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Sharing-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Sharing-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/resource_bundle_accessor.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/Internal/Deprecations.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Deprecations.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Deprecations.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Deprecations.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Deprecations.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Deprecations.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Deprecations.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Deprecations.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Deprecations~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/Internal/KeyPath+Sendable.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/KeyPath+Sendable.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/KeyPath+Sendable.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/KeyPath+Sendable.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/KeyPath+Sendable.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/KeyPath+Sendable.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/KeyPath+Sendable.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/KeyPath+Sendable.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/KeyPath+Sendable~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/Internal/MutexBackport.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/MutexBackport.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/MutexBackport.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/MutexBackport.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/MutexBackport.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/MutexBackport.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/MutexBackport.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/MutexBackport.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/MutexBackport~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/Internal/NSRecursiveLock+WithLock.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/NSRecursiveLock+WithLock.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/NSRecursiveLock+WithLock.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/NSRecursiveLock+WithLock.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/NSRecursiveLock+WithLock.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/NSRecursiveLock+WithLock.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/NSRecursiveLock+WithLock.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/NSRecursiveLock+WithLock.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/NSRecursiveLock+WithLock~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/Internal/PassthroughRelay.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PassthroughRelay.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PassthroughRelay.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PassthroughRelay.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PassthroughRelay.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PassthroughRelay.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PassthroughRelay.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PassthroughRelay.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PassthroughRelay~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/Internal/PersistentReferences.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PersistentReferences.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PersistentReferences.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PersistentReferences.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PersistentReferences.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PersistentReferences.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PersistentReferences.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PersistentReferences.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/PersistentReferences~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/Internal/Reference.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Reference.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Reference.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Reference.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Reference.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Reference.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Reference.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Reference.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Reference~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/Internal/SharedChangeTracker.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedChangeTracker.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedChangeTracker.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedChangeTracker.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedChangeTracker.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedChangeTracker.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedChangeTracker.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedChangeTracker.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedChangeTracker~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/Internal/TypeName.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/TypeName.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/TypeName.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/TypeName.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/TypeName.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/TypeName.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/TypeName.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/TypeName.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/TypeName~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/Shared.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Shared.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Shared.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Shared.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Shared.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Shared.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Shared.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Shared.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/Shared~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SharedBinding.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedBinding.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedBinding.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedBinding.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedBinding.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedBinding.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedBinding.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedBinding.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedBinding~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SharedCollection.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedCollection.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedCollection.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedCollection.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedCollection.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedCollection.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedCollection.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedCollection.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedCollection~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SharedContinuations.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedContinuations.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedContinuations.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedContinuations.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedContinuations.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedContinuations.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedContinuations.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedContinuations.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedContinuations~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SharedKey.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedKey.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedKey.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedKey.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedKey.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedKey.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedKey.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedKey.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedKey~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SharedKeys/AppStorageKey.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/AppStorageKey.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/AppStorageKey.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/AppStorageKey.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/AppStorageKey.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/AppStorageKey.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/AppStorageKey.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/AppStorageKey.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/AppStorageKey~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SharedKeys/DefaultKey.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/DefaultKey.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/DefaultKey.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/DefaultKey.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/DefaultKey.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/DefaultKey.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/DefaultKey.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/DefaultKey.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/DefaultKey~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SharedKeys/FileStorageKey.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/FileStorageKey.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/FileStorageKey.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/FileStorageKey.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/FileStorageKey.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/FileStorageKey.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/FileStorageKey.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/FileStorageKey.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/FileStorageKey~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SharedKeys/InMemoryKey.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/InMemoryKey.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/InMemoryKey.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/InMemoryKey.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/InMemoryKey.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/InMemoryKey.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/InMemoryKey.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/InMemoryKey.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/InMemoryKey~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SharedPublisher.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedPublisher.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedPublisher.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedPublisher.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedPublisher.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedPublisher.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedPublisher.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedPublisher.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedPublisher~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SharedReader.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReader.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReader.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReader.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReader.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReader.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReader.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReader.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReader~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SharedReaderKey.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReaderKey.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReaderKey.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReaderKey.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReaderKey.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReaderKey.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReaderKey.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReaderKey.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SharedReaderKey~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-sharing/Sources/Sharing/SwiftUIStateSharing.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SwiftUIStateSharing.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SwiftUIStateSharing.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SwiftUIStateSharing.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SwiftUIStateSharing.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SwiftUIStateSharing.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SwiftUIStateSharing.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SwiftUIStateSharing.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-sharing.build/Debug-iphonesimulator/Sharing.build/Objects-normal/x86_64/SwiftUIStateSharing~partial.swiftmodule"
+  }
+}

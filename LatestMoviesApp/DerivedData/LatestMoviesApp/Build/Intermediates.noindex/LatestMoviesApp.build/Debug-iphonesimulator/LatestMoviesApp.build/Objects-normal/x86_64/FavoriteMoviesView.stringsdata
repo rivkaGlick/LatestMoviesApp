@@ -1,0 +1,32 @@
+{
+  "source": "/Users/rivkiglick/Desktop/LatestMoviesApp/LatestMoviesApp/Features/Favorites/FavoriteMoviesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Favorites",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Favorites Yet",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Browse movies and tap the heart to add them to your favorites.",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 76
+        }
+      }
+    ]
+  },
+  "version": 1
+}

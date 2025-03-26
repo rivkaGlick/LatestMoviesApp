@@ -1,0 +1,237 @@
+{
+  "" : {
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-collections.build/Debug-iphonesimulator/_RopeModule.build/Objects-normal/x86_64/_RopeModule-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-collections.build/Debug-iphonesimulator/_RopeModule.build/Objects-normal/x86_64/_RopeModule-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-collections.build/Debug-iphonesimulator/_RopeModule.build/Objects-normal/x86_64/_RopeModule-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-collections.build/Debug-iphonesimulator/_RopeModule.build/Objects-normal/x86_64/_RopeModule-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-collections.build/Debug-iphonesimulator/_RopeModule.build/Objects-normal/x86_64/_RopeModule-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Builder.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Contents.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Debugging.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Index.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Ingester.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Invariants.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Iterators.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Metrics.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Summary.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Append and Insert.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Breaks.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Counts.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Description.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Indexing by Characters.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Indexing by UTF16.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+RopeElement.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Splitting.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+BidirectionalCollection.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Comparable.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+CustomDebugStringConvertible.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+CustomStringConvertible.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Equatable.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+ExpressibleByStringLiteral.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Hashing.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+LosslessStringConvertible.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+RangeReplaceableCollection.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Sequence.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+TextOutputStream.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Append.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Initializers.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Insert.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Managing Breaks.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+RemoveSubrange.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+ReplaceSubrange.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Split.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/Range+BigString.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UTF16View.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UTF8View.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UnicodeScalarView.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UTF16View.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UTF8View.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UnicodeScalarView.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Builder.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Debugging.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Invariants.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_Node.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_Storage.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_UnmanagedLeaf.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_UnsafeHandle.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeElement.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeMetric.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeSummary.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopeItem.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopePath.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopeVersion.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Collection.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Index.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Sequence.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Append.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Extract.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Find.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+ForEachWhile.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Insert.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Join.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+MutatingForEach.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Remove.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+RemoveSubrange.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Split.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Utilities/Optional Utilities.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Utilities/String Utilities.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Utilities/String.Index+ABI.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/RopeModule/Utilities/_CharacterRecognizer.swift" : {
+
+  }
+}

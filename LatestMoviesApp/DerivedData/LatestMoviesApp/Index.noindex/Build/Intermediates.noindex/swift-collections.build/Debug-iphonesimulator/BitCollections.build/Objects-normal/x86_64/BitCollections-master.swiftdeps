@@ -1,0 +1,123 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "67bee6ced72598cf689412b35970f56d8c8b6e686677b185ca5c41cee9518a8f"
+build_start_time: [1742994782, 6430000]
+build_end_time: [1742994782, 551828000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+BitwiseOperations.swift"
+  : [1742994455, 817309287]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+ChunkedBitsIterators.swift"
+  : [1742994455, 819764349]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Codable.swift"
+  : [1742994455, 820102936]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Collection.swift"
+  : [1742994455, 821075304]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Copy.swift"
+  : [1742994455, 821378022]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+CustomReflectable.swift"
+  : [1742994455, 821678384]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Descriptions.swift"
+  : [1742994455, 821834115]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Equatable.swift"
+  : [1742994455, 822006570]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+ExpressibleByArrayLiteral.swift"
+  : [1742994455, 822187213]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+ExpressibleByStringLiteral.swift"
+  : [1742994455, 822341808]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Extras.swift"
+  : [1742994455, 822488681]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Fill.swift"
+  : [1742994455, 822694740]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Hashable.swift"
+  : [1742994455, 822979020]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Initializers.swift"
+  : [1742994455, 823356065]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Invariants.swift"
+  : [1742994455, 823729593]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+LosslessStringConvertible.swift"
+  : [1742994455, 823936248]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+RandomBits.swift"
+  : [1742994455, 824089750]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+RangeReplaceableCollection.swift"
+  : [1742994455, 824291906]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Shifts.swift"
+  : [1742994455, 824509860]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Testing.swift"
+  : [1742994455, 824676687]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray._UnsafeHandle.swift"
+  : [1742994455, 825243684]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray.swift"
+  : [1742994455, 825435242]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+BidirectionalCollection.swift"
+  : [1742994455, 826732657]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Codable.swift"
+  : [1742994455, 826948428]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+CustomDebugStringConvertible.swift"
+  : [1742994455, 827131317]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+CustomReflectable.swift"
+  : [1742994455, 827281357]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+CustomStringConvertible.swift"
+  : [1742994455, 827447562]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Equatable.swift"
+  : [1742994455, 827659157]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+ExpressibleByArrayLiteral.swift"
+  : [1742994455, 828285872]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Extras.swift"
+  : [1742994455, 828560793]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Hashable.swift"
+  : [1742994455, 828747938]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Initializers.swift"
+  : [1742994455, 828943807]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Invariants.swift"
+  : [1742994455, 829102135]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Random.swift"
+  : [1742994455, 829262404]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra basics.swift"
+  : [1742994455, 829799729]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra conformance.swift"
+  : [1742994455, 829953574]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra formIntersection.swift"
+  : [1742994455, 830195882]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra formSymmetricDifference.swift"
+  : [1742994455, 830506583]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra formUnion.swift"
+  : [1742994455, 830694240]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra intersection.swift"
+  : [1742994455, 830873644]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isDisjoint.swift"
+  : [1742994455, 831357267]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isEqualSet.swift"
+  : [1742994455, 831609711]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isStrictSubset.swift"
+  : [1742994455, 831966207]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isStrictSuperset.swift"
+  : [1742994455, 832341767]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isSubset.swift"
+  : [1742994455, 832907512]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isSuperset.swift"
+  : [1742994455, 833162246]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra subtract.swift"
+  : [1742994455, 833382230]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra subtracting.swift"
+  : [1742994455, 833581787]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra symmetricDifference.swift"
+  : [1742994455, 833761654]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra union.swift"
+  : [1742994455, 833912753]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Sorted Collection APIs.swift"
+  : [1742994455, 834112877]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet.Counted.swift"
+  : [1742994455, 834340155]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet.Index.swift"
+  : [1742994455, 834567767]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet._UnsafeHandle.swift"
+  : [1742994455, 834743525]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet.swift"
+  : [1742994455, 834933674]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/Shared/Range+Utilities.swift"
+  : [1742994455, 835736215]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/Shared/Slice+Utilities.swift"
+  : [1742994455, 835946534]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/Shared/UInt+Tricks.swift"
+  : [1742994455, 836092148]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/BitCollections/Shared/_Word.swift"
+  : [1742994455, 836234387]

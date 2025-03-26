@@ -1,0 +1,25 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "9bf49984a6be08b5bc9ed98c33581019147dee8e074e8ae51e92f06af3254d20"
+build_start_time: [1742994642, 995455000]
+build_end_time: [1742994761, 111254000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsCore/AnyCasePath.swift"
+  : [1742994460, 334723697]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsCore/CasePathIterable.swift"
+  : [1742994460, 334933583]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsCore/CasePathReflectable.swift"
+  : [1742994460, 335213885]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsCore/CasePathable.swift"
+  : [1742994460, 335507866]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsCore/Internal/KeyPath+Sendable.swift"
+  : [1742994460, 338134848]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsCore/Internal/TypeName.swift"
+  : [1742994460, 338534656]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsCore/Internal/UncheckedSendable.swift"
+  : [1742994460, 338848643]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsCore/Never+CasePathable.swift"
+  : [1742994460, 339497602]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsCore/Optional+CasePathable.swift"
+  : [1742994460, 340087967]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePathsCore/Result+CasePathable.swift"
+  : [1742994460, 340334423]

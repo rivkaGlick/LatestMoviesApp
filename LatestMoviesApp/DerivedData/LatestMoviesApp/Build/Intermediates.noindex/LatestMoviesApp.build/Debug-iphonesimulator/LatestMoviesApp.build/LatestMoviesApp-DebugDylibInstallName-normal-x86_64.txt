@@ -1,0 +1,1 @@
+@rpath/LatestMoviesApp.debug.dylib

@@ -1,0 +1,37 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "7e2cd62a1bf2785ed917b146f7b4ee6fc68d977b793c69860b2f5080ab5251ba"
+build_start_time: [1742994781, 990806000]
+build_end_time: [1742994782, 554930000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Codable.swift"
+  : [1742994455, 840974404]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Collection.swift"
+  : [1742994455, 841199877]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+CustomReflectable.swift"
+  : [1742994455, 841391570]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Descriptions.swift"
+  : [1742994455, 841881426]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Equatable.swift"
+  : [1742994455, 842063974]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+ExpressibleByArrayLiteral.swift"
+  : [1742994455, 842277547]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Extras.swift"
+  : [1742994455, 842496122]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Hashable.swift"
+  : [1742994455, 842642093]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Testing.swift"
+  : [1742994455, 843142353]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque._Storage.swift"
+  : [1742994455, 843402874]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque._UnsafeHandle.swift"
+  : [1742994455, 843626697]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque.swift"
+  : [1742994455, 843862919]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/_DequeBuffer.swift"
+  : [1742994455, 844636274]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/_DequeBufferHeader.swift"
+  : [1742994455, 844828391]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/_DequeSlot.swift"
+  : [1742994455, 845289999]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-collections/Sources/DequeModule/_UnsafeWrappedBuffer.swift"
+  : [1742994455, 845960846]

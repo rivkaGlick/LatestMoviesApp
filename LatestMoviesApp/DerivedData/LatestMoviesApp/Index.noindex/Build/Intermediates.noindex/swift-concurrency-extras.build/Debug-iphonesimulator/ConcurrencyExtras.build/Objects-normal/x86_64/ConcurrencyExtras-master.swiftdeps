@@ -1,0 +1,27 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "1ef83c7318d86558bdedf5314aa78faeddc05d320c13aaeae539ff5707053823"
+build_start_time: [1742994640, 32587000]
+build_end_time: [1742994761, 83511000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/ActorIsolated.swift"
+  : [1742994463, 328506402]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/AnyHashableSendable.swift"
+  : [1742994463, 328674401]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/AsyncStream.swift"
+  : [1742994463, 328830312]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/AsyncThrowingStream.swift"
+  : [1742994463, 328983819]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/Internal/Locking.swift"
+  : [1742994463, 331059819]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/Internal/UncheckedBox.swift"
+  : [1742994463, 331248586]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/LockIsolated.swift"
+  : [1742994463, 331433436]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/MainSerialExecutor.swift"
+  : [1742994463, 331661802]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/Result.swift"
+  : [1742994463, 331828858]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/Task.swift"
+  : [1742994463, 331983753]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/UncheckedSendable.swift"
+  : [1742994463, 332196947]

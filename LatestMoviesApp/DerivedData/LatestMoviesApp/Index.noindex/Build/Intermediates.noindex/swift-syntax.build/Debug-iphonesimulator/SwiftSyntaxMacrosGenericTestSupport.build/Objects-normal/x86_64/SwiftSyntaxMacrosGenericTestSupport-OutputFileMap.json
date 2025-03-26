@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacrosGenericTestSupport.build/Objects-normal/x86_64/SwiftSyntaxMacrosGenericTestSupport-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacrosGenericTestSupport.build/Objects-normal/x86_64/SwiftSyntaxMacrosGenericTestSupport-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacrosGenericTestSupport.build/Objects-normal/x86_64/SwiftSyntaxMacrosGenericTestSupport-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacrosGenericTestSupport.build/Objects-normal/x86_64/SwiftSyntaxMacrosGenericTestSupport-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug-iphonesimulator/SwiftSyntaxMacrosGenericTestSupport.build/Objects-normal/x86_64/SwiftSyntaxMacrosGenericTestSupport-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftSyntaxMacrosGenericTestSupport/Assertions.swift" : {
+
+  }
+}

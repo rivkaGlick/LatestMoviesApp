@@ -1,0 +1,298 @@
+{
+  "" : {
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDump-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDump-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDump-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDump-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/CoreImage.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreImage.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreImage.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreImage.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreImage.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreImage.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreImage.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreImage.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreImage~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/CoreLocation.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreLocation.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreLocation.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreLocation.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreLocation.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreLocation.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreLocation.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreLocation.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreLocation~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/CoreMotion.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreMotion.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreMotion.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreMotion.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreMotion.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreMotion.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreMotion.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreMotion.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CoreMotion~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/Foundation.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Foundation.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Foundation.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Foundation.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Foundation.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Foundation.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Foundation.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Foundation.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Foundation~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/GameKit.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/GameKit.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/GameKit.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/GameKit.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/GameKit.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/GameKit.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/GameKit.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/GameKit.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/GameKit~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/KeyPath.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/KeyPath.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/KeyPath.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/KeyPath.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/KeyPath.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/KeyPath.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/KeyPath.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/KeyPath.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/KeyPath~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/Photos.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Photos.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Photos.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Photos.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Photos.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Photos.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Photos.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Photos.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Photos~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/Speech.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Speech.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Speech.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Speech.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Speech.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Speech.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Speech.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Speech.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Speech~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/StoreKit.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/StoreKit.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/StoreKit.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/StoreKit.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/StoreKit.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/StoreKit.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/StoreKit.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/StoreKit.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/StoreKit~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/Swift.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Swift.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Swift.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Swift.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Swift.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Swift.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Swift.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Swift.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Swift~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/SwiftUI.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/SwiftUI.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/SwiftUI.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/SwiftUI.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/SwiftUI.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/SwiftUI.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/SwiftUI.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/SwiftUI.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/SwiftUI~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/UIKit.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UIKit.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UIKit.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UIKit.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UIKit.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UIKit.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UIKit.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UIKit.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UIKit~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/UserNotifications.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotifications.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotifications.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotifications.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotifications.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotifications.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotifications.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotifications.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotifications~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Conformances/UserNotificationsUI.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotificationsUI.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotificationsUI.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotificationsUI.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotificationsUI.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotificationsUI.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotificationsUI.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotificationsUI.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/UserNotificationsUI~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/CustomDumpReflectable.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpReflectable.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpReflectable.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpReflectable.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpReflectable.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpReflectable.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpReflectable.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpReflectable.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpReflectable~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/CustomDumpRepresentable.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpRepresentable.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpRepresentable.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpRepresentable.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpRepresentable.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpRepresentable.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpRepresentable.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpRepresentable.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpRepresentable~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/CustomDumpStringConvertible.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpStringConvertible.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpStringConvertible.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpStringConvertible.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpStringConvertible.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpStringConvertible.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpStringConvertible.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpStringConvertible.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CustomDumpStringConvertible~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Diff.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Diff.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Diff.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Diff.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Diff.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Diff.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Diff.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Diff.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Diff~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Dump.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Dump.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Dump.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Dump.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Dump.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Dump.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Dump.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Dump.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Dump~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/ExpectDifference.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectDifference.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectDifference.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectDifference.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectDifference.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectDifference.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectDifference.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectDifference.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectDifference~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/ExpectNoDifference.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectNoDifference.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectNoDifference.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectNoDifference.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectNoDifference.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectNoDifference.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectNoDifference.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectNoDifference.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/ExpectNoDifference~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/AnyType.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/AnyType.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/AnyType.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/AnyType.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/AnyType.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/AnyType.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/AnyType.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/AnyType.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/AnyType~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/CollectionDifference.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CollectionDifference.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CollectionDifference.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CollectionDifference.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CollectionDifference.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CollectionDifference.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CollectionDifference.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CollectionDifference.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/CollectionDifference~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/Identifiable.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Identifiable.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Identifiable.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Identifiable.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Identifiable.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Identifiable.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Identifiable.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Identifiable.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Identifiable~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/Mirror.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Mirror.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Mirror.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Mirror.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Mirror.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Mirror.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Mirror.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Mirror.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Mirror~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/String.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/String.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/String.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/String.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/String.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/String.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/String.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/String.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/String~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/Internal/Unordered.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Unordered.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Unordered.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Unordered.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Unordered.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Unordered.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Unordered.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Unordered.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/Unordered~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/XCTAssertDifference.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertDifference.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertDifference.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertDifference.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertDifference.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertDifference.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertDifference.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertDifference.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertDifference~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-custom-dump/Sources/CustomDump/XCTAssertNoDifference.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertNoDifference.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertNoDifference.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertNoDifference.dia",
+    "index-unit-output-path" : "/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertNoDifference.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertNoDifference.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertNoDifference.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertNoDifference.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-custom-dump.build/Debug-iphonesimulator/CustomDump.build/Objects-normal/x86_64/XCTAssertNoDifference~partial.swiftmodule"
+  }
+}

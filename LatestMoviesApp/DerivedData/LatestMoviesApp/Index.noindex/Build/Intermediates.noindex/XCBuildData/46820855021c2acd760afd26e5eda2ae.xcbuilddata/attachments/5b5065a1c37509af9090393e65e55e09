@@ -1,0 +1,30 @@
+{
+  "" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependenciesMacrosPlugin-master.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependenciesMacrosPlugin-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependenciesMacrosPlugin-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependenciesMacrosPlugin-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependenciesMacrosPlugin-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependenciesMacrosPlugin-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-dependencies/Sources/DependenciesMacrosPlugin/DependencyClientMacro.swift" : {
+    "index-unit-output-path" : "/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependencyClientMacro.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependencyClientMacro.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependencyClientMacro.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-dependencies/Sources/DependenciesMacrosPlugin/DependencyEndpointMacro.swift" : {
+    "index-unit-output-path" : "/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependencyEndpointMacro.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependencyEndpointMacro.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/DependencyEndpointMacro.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-dependencies/Sources/DependenciesMacrosPlugin/Plugins.swift" : {
+    "index-unit-output-path" : "/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/Plugins.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/Plugins.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/Plugins.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-dependencies/Sources/DependenciesMacrosPlugin/Support.swift" : {
+    "index-unit-output-path" : "/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/Support.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/Support.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-dependencies.build/Debug/DependenciesMacrosPlugin.build/Objects-normal/x86_64/Support.o"
+  }
+}

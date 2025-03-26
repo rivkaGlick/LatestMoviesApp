@@ -1,0 +1,25 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "d2ec142b7c8a9dc2f43cb3d451d273a4a89e7c3955d9c6b514586e7eacfaf9e9"
+build_start_time: [1742994884, 108496000]
+build_end_time: [1742995027, 949349000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/Operator.swift"
+  : !dirty [1742994458, 290856798]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorError+Diagnostics.swift"
+  : !dirty [1742994458, 291121734]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorError.swift"
+  : !dirty [1742994458, 291410495]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Defaults.swift"
+  : !dirty [1742994458, 291771473]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Folding.swift"
+  : !dirty [1742994458, 292060121]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Semantics.swift"
+  : !dirty [1742994458, 292342447]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable.swift"
+  : !dirty [1742994458, 292572056]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/PrecedenceGraph.swift"
+  : !dirty [1742994458, 292840749]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/PrecedenceGroup.swift"
+  : !dirty [1742994458, 293395520]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/SyntaxSynthesis.swift"
+  : !dirty [1742994458, 294231178]

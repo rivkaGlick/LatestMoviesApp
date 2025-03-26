@@ -1,0 +1,21 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "c37f815000095eaefd451d1dea5794f4c4a866740999ad4be88be85ccbbb3797"
+build_start_time: [1742994766, 201995000]
+build_end_time: [1742994773, 92034000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-clocks/Sources/Clocks/AnyClock.swift"
+  : [1742994462, 511452675]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-clocks/Sources/Clocks/ImmediateClock.swift"
+  : [1742994462, 512408104]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-clocks/Sources/Clocks/Internal/Lock.swift"
+  : [1742994462, 512637379]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-clocks/Sources/Clocks/Internal/_AsyncTimerSequence.swift"
+  : [1742994462, 512795954]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-clocks/Sources/Clocks/SwiftUI.swift"
+  : [1742994462, 512955977]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-clocks/Sources/Clocks/TestClock.swift"
+  : [1742994462, 513391032]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-clocks/Sources/Clocks/Timer.swift"
+  : [1742994462, 513580298]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-clocks/Sources/Clocks/UnimplementedClock.swift"
+  : [1742994462, 513860983]

@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/CasePaths-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/CasePaths-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/CasePaths-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/CasePaths-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/EnumReflection.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/EnumReflection.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/EnumReflection.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/EnumReflection.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/EnumReflection.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/EnumReflection.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/EnumReflection.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/EnumReflection.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/EnumReflection~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Internal/Deprecations.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Deprecations.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Deprecations.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Deprecations.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Deprecations.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Deprecations.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Deprecations.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Deprecations.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Deprecations~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Internal/Exports.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Exports.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Exports.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Exports.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Exports.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Exports.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Exports.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Exports.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Exports~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Internal/LockIsolated.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/LockIsolated.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/LockIsolated.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/LockIsolated.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/LockIsolated.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/LockIsolated.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/LockIsolated.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/LockIsolated.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/LockIsolated~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Macros.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Macros.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Macros.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Macros.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Macros.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Macros.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Macros.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Macros.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/Macros~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/XCTestSupport.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/XCTestSupport.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/XCTestSupport.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/XCTestSupport.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/XCTestSupport.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/XCTestSupport.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/XCTestSupport.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/XCTestSupport.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-case-paths.build/Debug-iphonesimulator/CasePaths.build/Objects-normal/x86_64/XCTestSupport~partial.swiftmodule"
+  }
+}

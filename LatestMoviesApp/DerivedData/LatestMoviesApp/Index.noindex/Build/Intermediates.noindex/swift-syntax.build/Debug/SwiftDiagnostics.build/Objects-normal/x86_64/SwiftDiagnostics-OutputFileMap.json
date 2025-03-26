@@ -1,0 +1,60 @@
+{
+  "" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/SwiftDiagnostics-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Convenience.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Convenience.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Convenience.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Convenience.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Diagnostic.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Diagnostic.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Diagnostic.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Diagnostic.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticDecorators/ANSIDiagnosticDecorator.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/ANSIDiagnosticDecorator.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/ANSIDiagnosticDecorator.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/ANSIDiagnosticDecorator.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticDecorators/BasicDiagnosticDecorator.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/BasicDiagnosticDecorator.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/BasicDiagnosticDecorator.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/BasicDiagnosticDecorator.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticDecorators/DiagnosticDecorator.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/DiagnosticDecorator.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/DiagnosticDecorator.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/DiagnosticDecorator.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/DiagnosticsFormatter.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/DiagnosticsFormatter.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/DiagnosticsFormatter.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/DiagnosticsFormatter.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/FixIt.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/FixIt.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/FixIt.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/FixIt.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/GroupedDiagnostics.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/GroupedDiagnostics.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/GroupedDiagnostics.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/GroupedDiagnostics.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Message.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Message.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Message.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Message.o"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftDiagnostics/Note.swift" : {
+    "index-unit-output-path" : "/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Note.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Note.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-syntax.build/Debug/SwiftDiagnostics.build/Objects-normal/x86_64/Note.o"
+  }
+}

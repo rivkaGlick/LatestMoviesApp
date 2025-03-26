@@ -1,0 +1,25 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "cf9a83bed46945d9cb79527658c8c02c08118a4fc015728fe0c7a63687a4c08a"
+build_start_time: [1742994774, 484828000]
+build_end_time: [1742994775, 561267000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/Operator.swift"
+  : [1742994458, 290856798]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorError+Diagnostics.swift"
+  : [1742994458, 291121734]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorError.swift"
+  : [1742994458, 291410495]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Defaults.swift"
+  : [1742994458, 291771473]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Folding.swift"
+  : [1742994458, 292060121]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable+Semantics.swift"
+  : [1742994458, 292342447]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/OperatorTable.swift"
+  : [1742994458, 292572056]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/PrecedenceGraph.swift"
+  : [1742994458, 292840749]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/PrecedenceGroup.swift"
+  : [1742994458, 293395520]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftOperators/SyntaxSynthesis.swift"
+  : [1742994458, 294231178]

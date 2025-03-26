@@ -1,0 +1,4 @@
+module DependenciesMacrosPlugin {
+header "DependenciesMacrosPlugin-Swift.h"
+export *
+}

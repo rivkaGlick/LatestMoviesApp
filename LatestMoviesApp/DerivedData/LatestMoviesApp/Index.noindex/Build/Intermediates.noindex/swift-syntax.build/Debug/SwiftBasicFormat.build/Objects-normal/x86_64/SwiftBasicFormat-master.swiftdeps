@@ -1,0 +1,15 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "af4b0bea097ad44ed2492fa099d4189d3b6531c3a8a9eec8d3eb1f186fcb2cde"
+build_start_time: [1742994853, 985440000]
+build_end_time: [1742995027, 938984000]
+inputs:
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftBasicFormat/BasicFormat.swift"
+  : !dirty [1742994458, 278417943]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftBasicFormat/InferIndentation.swift"
+  : !dirty [1742994458, 278848036]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftBasicFormat/Syntax+Extensions.swift"
+  : !dirty [1742994458, 279644184]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftBasicFormat/SyntaxProtocol+Formatted.swift"
+  : !dirty [1742994458, 279848412]
+  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftBasicFormat/Trivia+FormatExtensions.swift"
+  : !dirty [1742994458, 280070694]

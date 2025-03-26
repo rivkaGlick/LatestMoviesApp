@@ -1,0 +1,4 @@
+module DependenciesTestSupport {
+header "DependenciesTestSupport-Swift.h"
+export *
+}

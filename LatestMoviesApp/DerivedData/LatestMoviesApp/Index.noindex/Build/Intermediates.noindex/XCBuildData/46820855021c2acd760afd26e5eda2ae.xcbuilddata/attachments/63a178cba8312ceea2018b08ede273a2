@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug-iphonesimulator/PerceptionMacros-6EBA1AD24AD6DB8E-testable.build/Objects-normal/x86_64/PerceptionMacros-6EBA1AD24AD6DB8E-testable-master.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug-iphonesimulator/PerceptionMacros-6EBA1AD24AD6DB8E-testable.build/Objects-normal/x86_64/PerceptionMacros-6EBA1AD24AD6DB8E-testable-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug-iphonesimulator/PerceptionMacros-6EBA1AD24AD6DB8E-testable.build/Objects-normal/x86_64/PerceptionMacros-6EBA1AD24AD6DB8E-testable-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug-iphonesimulator/PerceptionMacros-6EBA1AD24AD6DB8E-testable.build/Objects-normal/x86_64/PerceptionMacros-6EBA1AD24AD6DB8E-testable-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Index.noindex/Build/Intermediates.noindex/swift-perception.build/Debug-iphonesimulator/PerceptionMacros-6EBA1AD24AD6DB8E-testable.build/Objects-normal/x86_64/PerceptionMacros-6EBA1AD24AD6DB8E-testable-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Availability.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Extensions.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/PerceptibleMacro.swift" : {
+
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Plugins.swift" : {
+
+  }
+}

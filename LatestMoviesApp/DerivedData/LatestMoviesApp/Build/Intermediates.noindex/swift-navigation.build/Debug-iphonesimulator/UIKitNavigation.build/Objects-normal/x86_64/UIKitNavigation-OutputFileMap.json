@@ -1,0 +1,218 @@
+{
+  "" : {
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitNavigation-master.dia",
+    "emit-module-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitNavigation-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitNavigation-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitNavigation-master.swiftdeps"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Bindings/UIColorWell.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIColorWell.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIColorWell.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIColorWell.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIColorWell.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIColorWell.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIColorWell.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIColorWell.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIColorWell~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Bindings/UIControl.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIControl.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIControl.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIControl.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIControl.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIControl.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIControl.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIControl.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIControl~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Bindings/UIDatePicker.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIDatePicker.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIDatePicker.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIDatePicker.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIDatePicker.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIDatePicker.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIDatePicker.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIDatePicker.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIDatePicker~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Bindings/UIPageControl.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIPageControl.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIPageControl.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIPageControl.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIPageControl.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIPageControl.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIPageControl.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIPageControl.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIPageControl~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Bindings/UISegmentedControl.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISegmentedControl.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISegmentedControl.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISegmentedControl.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISegmentedControl.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISegmentedControl.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISegmentedControl.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISegmentedControl.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISegmentedControl~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Bindings/UISlider.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISlider.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISlider.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISlider.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISlider.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISlider.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISlider.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISlider.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISlider~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Bindings/UIStepper.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIStepper.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIStepper.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIStepper.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIStepper.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIStepper.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIStepper.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIStepper.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIStepper~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Bindings/UISwitch.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISwitch.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISwitch.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISwitch.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISwitch.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISwitch.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISwitch.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISwitch.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UISwitch~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Bindings/UITabBarController.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITabBarController.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITabBarController.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITabBarController.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITabBarController.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITabBarController.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITabBarController.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITabBarController.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITabBarController~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Bindings/UITextField.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITextField.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITextField.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITextField.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITextField.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITextField.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITextField.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITextField.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITextField~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Internal/Exports.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Exports.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Exports.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Exports.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Exports.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Exports.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Exports.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Exports.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Exports~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Internal/PopFromViewController.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/PopFromViewController.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/PopFromViewController.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/PopFromViewController.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/PopFromViewController.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/PopFromViewController.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/PopFromViewController.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/PopFromViewController.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/PopFromViewController~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Navigation/Dismiss.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Dismiss.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Dismiss.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Dismiss.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Dismiss.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Dismiss.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Dismiss.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Dismiss.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Dismiss~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Navigation/NavigationStackController.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/NavigationStackController.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/NavigationStackController.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/NavigationStackController.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/NavigationStackController.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/NavigationStackController.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/NavigationStackController.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/NavigationStackController.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/NavigationStackController~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Navigation/Presentation.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Presentation.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Presentation.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Presentation.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Presentation.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Presentation.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Presentation.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Presentation.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Presentation~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Navigation/Push.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Push.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Push.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Push.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Push.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Push.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Push.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Push.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Push~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/Navigation/UIAlertController.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIAlertController.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIAlertController.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIAlertController.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIAlertController.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIAlertController.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIAlertController.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIAlertController.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIAlertController~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/SwiftUI/Representable.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Representable.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Representable.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Representable.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Representable.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Representable.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Representable.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Representable.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/Representable~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/UIBinding.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIBinding.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIBinding.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIBinding.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIBinding.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIBinding.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIBinding.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIBinding.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIBinding~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/UIKitAnimation.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitAnimation.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitAnimation.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitAnimation.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitAnimation.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitAnimation.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitAnimation.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitAnimation.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UIKitAnimation~partial.swiftmodule"
+  },
+  "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigation/UITransaction.swift" : {
+    "const-values" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITransaction.swiftconstvalues",
+    "dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITransaction.d",
+    "diagnostics" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITransaction.dia",
+    "index-unit-output-path" : "/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITransaction.o",
+    "llvm-bc" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITransaction.bc",
+    "object" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITransaction.o",
+    "swift-dependencies" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITransaction.swiftdeps",
+    "swiftmodule" : "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/Build/Intermediates.noindex/swift-navigation.build/Debug-iphonesimulator/UIKitNavigation.build/Objects-normal/x86_64/UITransaction~partial.swiftmodule"
+  }
+}
