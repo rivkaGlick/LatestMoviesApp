@@ -1,4 +1,0 @@
-module SwiftIDEUtils {
-header "SwiftIDEUtils-Swift.h"
-export *
-}

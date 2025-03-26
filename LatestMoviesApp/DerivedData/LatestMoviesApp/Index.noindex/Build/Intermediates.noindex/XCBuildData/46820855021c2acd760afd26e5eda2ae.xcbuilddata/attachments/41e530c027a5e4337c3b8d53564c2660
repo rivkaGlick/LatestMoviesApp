@@ -1,4 +1,0 @@
-module _SwiftSyntaxGenericTestSupport {
-header "_SwiftSyntaxGenericTestSupport-Swift.h"
-export *
-}
