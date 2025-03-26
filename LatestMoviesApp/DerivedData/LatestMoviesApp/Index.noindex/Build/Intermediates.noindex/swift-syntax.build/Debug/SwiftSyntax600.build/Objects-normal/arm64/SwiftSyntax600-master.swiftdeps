@@ -1,7 +1,0 @@
-version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
-options: "51eea3207ff15ad1d900edfd2f908b1ded4fc73d95dc883e7deee440be19c10b"
-build_start_time: [1743024684, 740640000]
-build_end_time: [1743024688, 336665000]
-inputs:
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/VersionMarkerModules/SwiftSyntax600/Empty.swift"
-  : !dirty [1742994458, 446569866]

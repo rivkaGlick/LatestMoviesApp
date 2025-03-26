@@ -1,4 +1,0 @@
-module SwiftSyntaxMacrosTestSupport {
-header "SwiftSyntaxMacrosTestSupport-Swift.h"
-export *
-}

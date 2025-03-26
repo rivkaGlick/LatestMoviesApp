@@ -1,7 +1,0 @@
-version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
-options: "fb329f91b3612ab580278c6a471c0d3105e518c0ba8eddf2927c3271c332c67b"
-build_start_time: [1743024687, 765876000]
-build_end_time: [1743024688, 342858000]
-inputs:
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp - bit/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/SwiftCompilerPlugin/CompilerPlugin.swift"
-  : !dirty [1742994458, 280908268]

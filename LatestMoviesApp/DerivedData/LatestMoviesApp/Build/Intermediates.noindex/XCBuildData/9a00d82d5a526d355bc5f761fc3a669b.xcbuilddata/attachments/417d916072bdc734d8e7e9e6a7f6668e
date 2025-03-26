@@ -1,4 +1,0 @@
-module UIKitNavigationShim {
-umbrella "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-navigation/Sources/UIKitNavigationShim/include"
-export *
-}

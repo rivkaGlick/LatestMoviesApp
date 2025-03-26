@@ -1,9 +1,0 @@
-version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
-options: "a699fe70379d9d4b2afd728c7f9b3f22e57d1b34f91aa4478d6f5843737c878a"
-build_start_time: [1742994779, 182390000]
-build_end_time: [1742994779, 461269000]
-inputs:
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/_SwiftSyntaxGenericTestSupport/AssertEqualWithDiff.swift"
-  : !dirty [1742994458, 454606643]
-  ? "/Users/rivkiglick/Desktop/LatestMoviesApp/DerivedData/LatestMoviesApp/SourcePackages/checkouts/swift-syntax/Sources/_SwiftSyntaxGenericTestSupport/String+TrimmingTrailingWhitespace.swift"
-  : !dirty [1742994458, 455191011]
