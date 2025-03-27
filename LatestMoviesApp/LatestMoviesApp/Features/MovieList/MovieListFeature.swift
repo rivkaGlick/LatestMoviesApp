@@ -93,6 +93,7 @@ struct MovieListFeature: Reducer {
                 state.currentPage = 1
                 state.totalPages = 1
                 state.movies = []
+                state.lastMovieID = 1
                 return .send(.fetchMovies)
                 
             case .toggleFavorite(let movie):

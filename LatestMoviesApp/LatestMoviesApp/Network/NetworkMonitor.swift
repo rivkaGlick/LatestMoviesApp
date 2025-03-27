@@ -22,7 +22,7 @@ final class NetworkMonitor {
     }
 
     private func startMonitoring() {
-        stopMonitoring() 
+//        stopMonitoring() 
         let newMonitor = NWPathMonitor()
         monitor = newMonitor
 
@@ -34,7 +34,7 @@ final class NetworkMonitor {
                 self?.subject.send(isConnected)
             }
             
-            self?.startMonitoring()
+//            self?.startMonitoring()
         }
         newMonitor.start(queue: queue)
     }

@@ -19,7 +19,7 @@ struct MovieRow: View {
             KFImage(URL(string: "https://image.tmdb.org/t/p/w500\(movie.posterPath ?? "")"))
                 .placeholder { Color.gray.opacity(0.3) }
                 .resizable()
-                .aspectRatio(contentMode: .fit) /
+                .aspectRatio(contentMode: .fit)
                 .frame(width: 60, height: 90)
                 .clipShape(RoundedRectangle(cornerRadius: 10))
 

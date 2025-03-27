@@ -50,7 +50,7 @@ struct MovieListView: View {
                         .padding(.bottom, 60)
                     }
                     .onAppear {
-                        viewStore.send(.network(.startMonitoring)) 
+                        viewStore.send(.network(.startMonitoring))
                     }
                     FavoriteListButton {
                         showFavorites = true
