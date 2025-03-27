@@ -15,11 +15,6 @@ LatestMoviesApp is an iOS app that provides the latest movie information, built 
 - **Modular Structure** – Enhances maintainability.
 - **Unit Testing** – Focus on key features for stability.
 
-## Changes & Updates
-- **Removed internet connectivity handling** – The previous implementation was removed due to issues in monitoring updates correctly.
-- **Improved UI responsiveness** – Fixed issues with the filter tab not updating correctly.
-- **Refactored code for better maintainability** – Some views and logic were restructured.
-
 ## Limitations & Improvements
 - **Current Limitations**: No offline mode, basic error handling, lacks UI animations.
 - **Future Enhancements**: Offline support, improved UI, dark mode, and better testing.
