@@ -23,7 +23,6 @@ struct MovieListView: View {
             NavigationStack {
                 ZStack {
                     VStack {
-                        OfflineBanner(isConnected: viewStore.networkState.isConnected)
                         
                         Picker("Filter", selection: viewStore.binding(
                             get: \.selectedCategory,
@@ -36,7 +35,6 @@ struct MovieListView: View {
                         .pickerStyle(.segmented)
                         .padding(.horizontal)
                         .padding(.top, 8)
-                        
                         MovieListContent(
                             viewStore: viewStore,
                             movies: viewStore.movies,
@@ -48,9 +46,6 @@ struct MovieListView: View {
                             animationNamespace: animationNamespace
                         )
                         .padding(.bottom, 60)
-                    }
-                    .onAppear {
-                        viewStore.send(.network(.startMonitoring))
                     }
                     FavoriteListButton {
                         showFavorites = true
