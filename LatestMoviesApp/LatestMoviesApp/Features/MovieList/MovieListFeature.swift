@@ -21,12 +21,14 @@ struct MovieListFeature: Reducer {
         var lastMovieID: Int? = nil
         var networkState: NetworkFeature.State = .init()
         
+
+        
         
     }
     
     enum Action {
         case fetchMovies
-        case moviesLoadedNew(Result<([Movie], Int), APIError>)
+        case moviesLoaded(Result<([Movie], Int), APIError>)
         case movieSelected(Movie?)
         case movieDetails(MovieDetailsFeature.Action)
         case filterCategory(MovieCategory)
@@ -48,24 +50,26 @@ struct MovieListFeature: Reducer {
     @Dependency(\.movieService) var movieService
     
     var body: some ReducerOf<Self> {
-        Scope(state: \.networkState, action: /Action.network) {
-            NetworkFeature()
-        }
+        Scope(state: \.networkState, action: MovieListFeature.networkActionCasePath) {
+             NetworkFeature()
+         }
         
         Reduce { state, action in
             switch action {
             case .fetchMovies:
                 guard state.networkState.isConnected else {
+
                     return .none
                 }
                 
                 state.isLoading = true
+
                 return .run { [category = state.selectedCategory, currentPage = state.currentPage] send in
                     let result = await MovieService().fetchMovies(category: category, page: currentPage)
-                    await send(.moviesLoadedNew(result))
+                    await send(.moviesLoaded(result))
                 }
                 
-            case .moviesLoadedNew(let result):
+            case .moviesLoaded(let result):
                 state.isLoading = false
                 switch result {
                 case .success(let (movies, totalPages)):
@@ -111,10 +115,9 @@ struct MovieListFeature: Reducer {
                 switch networkAction {
                 case .connectionChanged(let isConnected):
                     state.networkState.isConnected = isConnected
-                    print("🔄 חיבור רשת השתנה ברשימת סרטים: \(isConnected)")
+
                     
-                    // ✅ אם החיבור חזר, נטען את הסרטים מחדש
-                    if isConnected {
+                    if isConnected  && state.isLoading != true{
                         return .send(.fetchMovies)
                     }
                     
@@ -128,59 +131,19 @@ struct MovieListFeature: Reducer {
         }
     }
     
-    //    func reduce(into state: inout State, action: Action) -> Effect<Action> {
-    //
-    //        switch action {
-    //        case .fetchMovies:
-    //            state.isLoading = true
-    //            return .run { [category = state.selectedCategory, currentPage = state.currentPage] send in
-    //                let result = await MovieService().fetchMovies(category: category, page: currentPage)
-    //                await send(.moviesLoadedNew(result))
-    //            }
-    //        case .moviesLoadedNew(let result):
-    //            state.isLoading = false
-    //            switch result {
-    //            case .success(let (movies, totalPages)):
-    //                state.movies.append(contentsOf: movies)
-    //                state.currentPage += 1
-    //                state.totalPages = totalPages
-    //            case .failure:
-    //                break
-    //            }
-    //            return .none
-    //        case .movieSelected(let movie):
-    //            print("Reducer: movieSelected - Selected movie: \(movie?.title ?? "None")")
-    //            state.selectedMovie = movie
-    //            print("Reducer: After update - Selected movie in state: \(state.selectedMovie?.title ?? "None")")
-    //            return .none
-    //
-    //        case .movieDetails:
-    //            return .none
-    //
-    //        case .filterCategory(let category):
-    //            state.selectedCategory = category
-    //            state.currentPage = 1
-    //            state.totalPages = 1
-    //            state.movies = []
-    //            return .send(.fetchMovies)
-    //
-    //        case .toggleFavorite(let movie):
-    //            if state.favoriteMovies.contains(where: { $0.id == movie.id }) {
-    //                state.favoriteMovies.removeAll { $0.id == movie.id }
-    //            } else {
-    //                state.favoriteMovies.append(movie)
-    //            }
-    //            return .none
-    //        case .loadNextPage:
-    //            guard state.currentPage <= state.totalPages else { return .none }
-    //            return .send(.fetchMovies)
-    //        case .updateLastMovieID(let movieID):
-    //            state.lastMovieID = movieID
-    //            return .none
-    //
-    //
-    //        }
-    //    }
-    
 }
+
+
+extension MovieListFeature {
+    static let networkActionCasePath = AnyCasePath<Action, NetworkFeature.Action>(
+        embed: { .network($0) },
+        extract: {
+            if case let .network(action) = $0 {
+                return action
+            }
+            return nil
+        }
+    )
+}
+
 

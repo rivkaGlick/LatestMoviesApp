@@ -9,19 +9,42 @@ import Network
 import Combine
 
 final class NetworkMonitor {
-    private let monitor = NWPathMonitor()
-    private let queue = DispatchQueue.global(qos: .background)
-    private let subject = CurrentValueSubject<Bool, Never>(true) // נניח שחיבור התחלתי הוא קיים
+    private var monitor: NWPathMonitor?
+    private let queue = DispatchQueue(label: "NetworkMonitorQueue", qos: .background)
+    private let subject = CurrentValueSubject<Bool, Never>(true)
 
     var publisher: AnyPublisher<Bool, Never> {
         subject.eraseToAnyPublisher()
     }
 
     init() {
-        monitor.pathUpdateHandler = { [weak self] path in
+        startMonitoring()
+    }
+
+    private func startMonitoring() {
+        stopMonitoring() // נוודא שכל מוניטור קודם נסגר
+        let newMonitor = NWPathMonitor()
+        monitor = newMonitor
+
+        newMonitor.pathUpdateHandler = { [weak self] path in
             let isConnected = path.status == .satisfied
-            self?.subject.send(isConnected)
+            
+            print("📶 NetworkMonitor - מצב חיבור: \(isConnected ? "מחובר" : "מנותק")")
+            
+            DispatchQueue.main.async {
+                self?.subject.send(isConnected)
+            }
+            
+            // נאתחל מחדש כדי למנוע תקיעות
+            self?.startMonitoring()
         }
-        monitor.start(queue: queue)
+        newMonitor.start(queue: queue)
+    }
+
+    private func stopMonitoring() {
+        monitor?.cancel()
+        monitor = nil
     }
 }
+
+

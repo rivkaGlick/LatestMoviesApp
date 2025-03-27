@@ -78,7 +78,7 @@ struct MovieResponse: Codable {
     }
 }
 
-enum APIError: Error {
+enum APIError: Error, Equatable {
     case networkError
     case unknown
 }

@@ -24,6 +24,7 @@ struct NetworkFeature: Reducer {
     func reduce(into state: inout State, action: Action) -> Effect<Action> {
         switch action {
         case .startMonitoring:
+            
             return .run { send in
                 for await isConnected in networkMonitor.publisher.values {
                     await send(.connectionChanged(isConnected))
