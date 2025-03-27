@@ -6,8 +6,8 @@
 //
 
 import SwiftUI
-import ComposableArchitecture
 import Kingfisher
+import ComposableArchitecture
 
 struct MovieDetailsView: View {
     let store: StoreOf<MovieDetailsFeature>
@@ -16,107 +16,171 @@ struct MovieDetailsView: View {
     var body: some View {
         WithViewStore(store, observe: \.self) { viewStore in
             ScrollView {
-                VStack(alignment: .leading, spacing: 16) {
-                    KFImage(URL(string: "https://image.tmdb.org/t/p/w500\(viewStore.movie.posterPath ?? "")"))
-                        .placeholder {
-                            Color.gray.opacity(0.5)
-                        }
-                        .resizable()
-                        .scaledToFit()
-                        .matchedGeometryEffect(id: viewStore.movie.id, in: animationNamespace)
-                        .frame(maxWidth: .infinity, maxHeight: 300)
-                        .cornerRadius(12)
-                        .shadow(radius: 10)
+                VStack(alignment: .leading, spacing: 20) {
+                    
+                    MoviePosterView(posterPath: viewStore.movie.posterPath, id: viewStore.movie.id, namespace: animationNamespace)
 
-                    Text(viewStore.movie.title ?? "")
-                        .font(.largeTitle)
-                        .bold()
-                        .padding(.horizontal)
-                        .foregroundColor(.primary) 
+                    MovieTitleView(title: viewStore.movie.title)
 
-                    if let releaseDate = viewStore.movie.releaseDate {
-                        Text("Release Year: \(releaseDate.prefix(4))")
-                            .font(.headline)
-                            .foregroundColor(.gray)
-                            .padding(.horizontal)
-                    }
+                    MovieInfoView(releaseDate: viewStore.movie.releaseDate, rating: viewStore.movie.rating)
 
-                    if let rating = viewStore.movie.rating {
-                        HStack {
-                            Text("Rating: \(String(format: "%.1f", rating))/10")
-                                .font(.headline)
-                                .foregroundColor(.yellow)
-                            Image(systemName: "star.fill")
-                                .foregroundColor(.yellow)
-                        }
-                        .padding(.horizontal)
-                    }
-
-                    if let overview = viewStore.movie.overview, !overview.isEmpty {
-                        Text("Description:")
-                            .font(.headline)
-                            .foregroundColor(.primary)
-                            .padding(.horizontal)
-
-                        Text(overview)
-                            .font(.body)
-                            .padding(.horizontal)
-                            .multilineTextAlignment(.leading)
-                            .lineLimit(4)
-                            .truncationMode(.tail)
-                            .foregroundColor(.secondary)
-                            
-                    } else {
-                        Text("No description available.")
-                            .font(.body)
-                            .foregroundColor(.gray)
-                            .padding(.horizontal)
-                    }
+                    MovieDescriptionView(overview: viewStore.movie.overview)
 
                     if let trailerURL = viewStore.trailerURL {
-                        Button(action: {
-                            openTrailer(url: trailerURL)
-                        }) {
-                            HStack {
-                                Image(systemName: "play.fill")
-                                    .foregroundColor(.white)
-                                Text("Play Trailer")
-                                    .font(.title2)
-                                    .bold()
-                                    .foregroundColor(.white)
-                            }
-                            .padding()
-                            .background(Color.blue)
-                            .cornerRadius(10)
-                            .shadow(radius: 5)
-                        }
-                        .padding(.horizontal)
+                        PlayTrailerButton(trailerURL: trailerURL)
                     } else {
-                        Text("No trailer available")
-                            .font(.body)
-                            .foregroundColor(.gray)
-                            .padding(.horizontal)
+                        PlaceholderText(text: "No trailer available")
                     }
 
                     Spacer()
                 }
-                .padding(.top)
+                .padding()
             }
+            .background(Color(.systemBackground)) // תמיכה ב-Light/Dark Mode
             .navigationTitle("Movie Details")
-            .navigationBarTitleDisplayMode(.inline) 
-            .onAppear {
-                viewStore.send(.fetchTrailer) 
-            }
-        }
-    }
-
-    // פונקציה לפתיחת הטריילר
-    private func openTrailer(url: URL) {
-        if let trailerView = URL(string: url.absoluteString) {
-            UIApplication.shared.open(trailerView)
+            .navigationBarTitleDisplayMode(.inline)
+            .onAppear { viewStore.send(.fetchTrailer) }
         }
     }
 }
+
+// MARK: - Subviews
+
+struct MoviePosterView: View {
+    let posterPath: String?
+    let id: Int
+    let namespace: Namespace.ID
+
+    var body: some View {
+        KFImage(URL(string: "https://image.tmdb.org/t/p/w500\(posterPath ?? "")"))
+            .placeholder { Color.gray.opacity(0.3) }
+            .resizable()
+            .scaledToFit()
+            .matchedGeometryEffect(id: id, in: namespace)
+            .frame(maxWidth: .infinity, maxHeight: 300)
+            .cornerRadius(16)
+            .shadow(radius: 8)
+            .accessibilityLabel("Movie Poster")
+    }
+}
+
+struct MovieTitleView: View {
+    let title: String?
+
+    var body: some View {
+        Text(title ?? "Unknown Title")
+            .font(.largeTitle)
+            .fontWeight(.bold)
+            .foregroundColor(.primary)
+            .padding(.horizontal)
+            .accessibilityLabel("Movie title: \(title ?? "Unknown")")
+    }
+}
+
+struct MovieInfoView: View {
+    let releaseDate: String?
+    let rating: Double?
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            if let releaseDate = releaseDate {
+                Text("Release Year: \(releaseDate.prefix(4))")
+                    .font(.headline)
+                    .foregroundColor(.secondary)
+                    .accessibilityLabel("Release Year: \(releaseDate.prefix(4))")
+            }
+
+            if let rating = rating {
+                HStack {
+                    Text("Rating: \(String(format: "%.1f", rating))/10")
+                        .font(.headline)
+                        .foregroundColor(.yellow)
+                        .accessibilityLabel("Rating: \(String(format: "%.1f", rating)) out of 10")
+                    
+                    Image(systemName: "star.fill")
+                        .foregroundColor(.yellow)
+                }
+            }
+        }
+        .padding(.horizontal)
+    }
+}
+
+struct MovieDescriptionView: View {
+    let overview: String?
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            if let overview = overview, !overview.isEmpty {
+                Text("Description:")
+                    .font(.headline)
+                    .foregroundColor(.primary)
+                
+                Text(overview)
+                    .font(.body)
+                    .multilineTextAlignment(.leading)
+                    .lineLimit(5)
+                    .truncationMode(.tail)
+                    .foregroundColor(.secondary)
+                    .accessibilityLabel("Movie description: \(overview)")
+            } else {
+                PlaceholderText(text: "No description available.")
+            }
+        }
+        .padding(.horizontal)
+    }
+}
+
+struct PlayTrailerButton: View {
+    let trailerURL: URL
+
+    var body: some View {
+        Button(action: { openTrailer(url: trailerURL) }) {
+            HStack {
+                Image(systemName: "play.circle.fill")
+                    .resizable()
+                    .frame(width: 24, height: 24)
+                    .foregroundColor(.white)
+
+                Text("Watch Trailer")
+                    .font(.headline)
+                    .foregroundColor(.white)
+            }
+            .padding(.vertical, 10)
+            .padding(.horizontal, 16)
+            .background(Color.blue.opacity(0.8))
+            .cornerRadius(8)
+            .shadow(radius: 4)
+        }
+        .buttonStyle(.plain)
+        .padding(.top, 10)
+        .scaleEffect(1.0)
+        .onTapGesture {
+            withAnimation(.easeOut(duration: 0.2)) {
+                // אפקט קליק קטן
+            }
+        }
+        .accessibilityLabel("Watch movie trailer")
+    }
+
+    private func openTrailer(url: URL) {
+        UIApplication.shared.open(url)
+    }
+}
+
+
+struct PlaceholderText: View {
+    let text: String
+
+    var body: some View {
+        Text(text)
+            .font(.body)
+            .foregroundColor(.gray)
+            .padding(.horizontal)
+            .accessibilityLabel(text)
+    }
+}
+
 
 
 
