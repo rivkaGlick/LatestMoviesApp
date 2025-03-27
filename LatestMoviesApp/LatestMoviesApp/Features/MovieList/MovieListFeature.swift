@@ -58,12 +58,9 @@ struct MovieListFeature: Reducer {
             switch action {
             case .fetchMovies:
                 guard state.networkState.isConnected else {
-
                     return .none
                 }
-                
                 state.isLoading = true
-
                 return .run { [category = state.selectedCategory, currentPage = state.currentPage] send in
                     let result = await MovieService().fetchMovies(category: category, page: currentPage)
                     await send(.moviesLoaded(result))
@@ -116,12 +113,9 @@ struct MovieListFeature: Reducer {
                 switch networkAction {
                 case .connectionChanged(let isConnected):
                     state.networkState.isConnected = isConnected
-
-                    
                     if isConnected  && state.isLoading != true{
                         return .send(.fetchMovies)
                     }
-                    
                 case .startMonitoring:
                     return .run { send in
                         await send(.network(.startMonitoring))
