@@ -17,10 +17,15 @@ struct LatestMoviesAppApp: App {
             MovieListFeature()
         }
     
+    
+    
     init() {
            let cache = ImageCache.default
            cache.memoryStorage.config.expiration = .seconds(86400) 
            cache.diskStorage.config.expiration = .days(1)
+        
+        KeychainManager.save(key: "API_KEY", value: "fe422d845b15742622d0865fc5a4963d")
+
        }
 
         var body: some Scene {

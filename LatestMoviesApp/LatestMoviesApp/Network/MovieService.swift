@@ -9,7 +9,7 @@ import ComposableArchitecture
 import Foundation
 
 struct MovieService {
-    private let apiKey = "fe422d845b15742622d0865fc5a4963d" 
+    private let apiKey = KeychainManager.retrieve(key: "API_KEY") ?? ""
     private let baseURL = "https://api.themoviedb.org/3"
     
     func fetchMovies(category: MovieListFeature.MovieCategory, page: Int) async -> Result<([Movie], Int), APIError> {
