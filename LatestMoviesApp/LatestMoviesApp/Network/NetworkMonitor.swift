@@ -22,20 +22,18 @@ final class NetworkMonitor {
     }
 
     private func startMonitoring() {
-        stopMonitoring() // נוודא שכל מוניטור קודם נסגר
+        stopMonitoring() 
         let newMonitor = NWPathMonitor()
         monitor = newMonitor
 
         newMonitor.pathUpdateHandler = { [weak self] path in
             let isConnected = path.status == .satisfied
             
-            print("📶 NetworkMonitor - מצב חיבור: \(isConnected ? "מחובר" : "מנותק")")
             
             DispatchQueue.main.async {
                 self?.subject.send(isConnected)
             }
             
-            // נאתחל מחדש כדי למנוע תקיעות
             self?.startMonitoring()
         }
         newMonitor.start(queue: queue)

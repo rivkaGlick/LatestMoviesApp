@@ -29,10 +29,8 @@ struct MovieService {
     }
     
     func fetchTrailer(for movieID: Int) async -> Result<URL, APIError> {
-        // יצירת URL עבור הקריאה ל-API של TMDB לקבלת סרטונים
         let trailerURLString = "\(baseURL)/movie/\(movieID)/videos?api_key=\(apiKey)"
         
-        // ניסוי לקרוא את המידע מה-API
         guard let url = URL(string: trailerURLString) else {
             return .failure(.networkError)
         }
@@ -40,16 +38,13 @@ struct MovieService {
         do {
             let (data, _) = try await URLSession.shared.data(from: url)
             
-            // דקודינג הנתונים המתקבלים
             let decodedResponse = try JSONDecoder().decode(TrailerResponse.self, from: data)
             
-            // חיפוש בנתונים את הטריילר הראשון
             if let trailer = decodedResponse.results.first, !trailer.key.isEmpty {
-                // בניית URL לטריילר
                 let trailerURL = URL(string: "https://www.youtube.com/watch?v=\(trailer.key)")!
                 return .success(trailerURL)
             } else {
-                return .failure(.unknown) // אם לא נמצא טריילר
+                return .failure(.unknown)
             }
         } catch {
             return .failure(.networkError)
@@ -63,7 +58,7 @@ struct TrailerResponse: Decodable {
 }
 
 struct Trailer: Decodable {
-    let key: String  // המפתח של הטריילר ב-YouTube
+    let key: String  
 }
 
 struct MovieResponse: Codable {

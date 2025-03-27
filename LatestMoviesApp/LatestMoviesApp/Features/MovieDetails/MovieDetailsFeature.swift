@@ -30,11 +30,7 @@ struct MovieDetailsFeature: Reducer {
                 let result = await movieService.fetchTrailer(for: movieID)
                 await send(.trailerLoaded(result))
             }
-            
-            
-
         case .trailerLoaded(let result):
-            // 4. עדכן את ה-state בצורה רגילה
             switch result {
             case .success(let url):
                 state.trailerURL = url

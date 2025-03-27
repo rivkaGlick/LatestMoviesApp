@@ -19,7 +19,7 @@ struct LatestMoviesAppApp: App {
     
     init() {
            let cache = ImageCache.default
-           cache.memoryStorage.config.expiration = .seconds(86400) // 24 שעות
+           cache.memoryStorage.config.expiration = .seconds(86400) 
            cache.diskStorage.config.expiration = .days(1)
        }
 

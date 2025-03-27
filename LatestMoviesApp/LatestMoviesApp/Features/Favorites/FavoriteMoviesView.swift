@@ -26,11 +26,6 @@ struct FavoriteMoviesView: View {
                                 MovieRow(viewStore: viewStore, movie: movie, isFavoriteList: true) {
                                     selectedMovie = movie
                                 }
-//                                FavoriteMovieRow(
-//                                    movie: movie,
-//                                    viewStore: viewStore,
-//                                    onSelectMovie: { selectedMovie = movie }
-//                                )
                             }
                             .onDelete { indexSet in
                                 for index in indexSet {
@@ -40,11 +35,11 @@ struct FavoriteMoviesView: View {
                             }
                         }
                         .listStyle(.insetGrouped)
-                        .animation(.easeInOut, value: viewStore.favoriteMovies) // ✅ אנימציה עדינה
+                        .animation(.easeInOut, value: viewStore.favoriteMovies)
                     }
                 }
                 .navigationTitle("Favorites")
-                .navigationBarTitleDisplayMode(.inline) // ✅ כותרת בסטנדרט של אפל
+                .navigationBarTitleDisplayMode(.inline) 
                 .sheet(item: $selectedMovie) { movie in
                     MovieDetailsView(
                         store: Store(

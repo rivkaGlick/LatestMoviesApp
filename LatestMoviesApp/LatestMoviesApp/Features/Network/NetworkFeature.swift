@@ -11,7 +11,7 @@ import Dependencies
 
 struct NetworkFeature: Reducer {
     struct State: Equatable {
-        var isConnected: Bool = true // מצב התחלתי - יש אינטרנט
+        var isConnected: Bool = true 
     }
 
     enum Action {
@@ -33,7 +33,6 @@ struct NetworkFeature: Reducer {
 
         case .connectionChanged(let isConnected):
             state.isConnected = isConnected
-            print("📡 מצב רשת השתנה: \(isConnected)")
             return .none
         }
     }

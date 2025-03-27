@@ -105,7 +105,7 @@ struct MovieDetailsView: View {
             .navigationTitle("Movie Details")
             .navigationBarTitleDisplayMode(.inline) 
             .onAppear {
-                viewStore.send(.fetchTrailer) // טוען את הטריילר כשהמסך נטען
+                viewStore.send(.fetchTrailer) 
             }
         }
     }

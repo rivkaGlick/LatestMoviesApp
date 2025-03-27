@@ -50,7 +50,7 @@ struct MovieListView: View {
                         .padding(.bottom, 60)
                     }
                     .onAppear {
-                        viewStore.send(.network(.startMonitoring)) //  הפעלת מעקב אחרי מצב הרשת
+                        viewStore.send(.network(.startMonitoring)) 
                     }
                     FavoriteListButton {
                         showFavorites = true
