@@ -8,11 +8,10 @@ import SwiftUI
 import ComposableArchitecture
 import Kingfisher
 
-
 struct MovieRow: View {
     let viewStore: ViewStoreOf<MovieListFeature>
     let movie: Movie
-    let isFavoriteList: Bool // ✅ האם זו רשימת מועדפים?
+    let isFavoriteList: Bool
     let action: () -> Void
 
     var body: some View {
@@ -20,10 +19,9 @@ struct MovieRow: View {
             KFImage(URL(string: "https://image.tmdb.org/t/p/w500\(movie.posterPath ?? "")"))
                 .placeholder { Color.gray.opacity(0.3) }
                 .resizable()
-                .scaledToFill()
-                .frame(width: 60, height: 90) // ✅ גודל אחיד
+                .aspectRatio(contentMode: .fit) // ✅ שומר על יחס גובה-רוחב
+                .frame(width: 60, height: 90)
                 .clipShape(RoundedRectangle(cornerRadius: 10))
-                .clipped()
 
             VStack(alignment: .leading, spacing: 4) {
                 Text(movie.title ?? "Unknown Title")
@@ -38,20 +36,42 @@ struct MovieRow: View {
 
             Spacer()
 
-            Button(action: {
+            FavoriteButton(isFavorite: viewStore.favoriteMovies.contains { $0.id == movie.id }) {
                 viewStore.send(.toggleFavorite(movie))
-            }) {
-                Image(systemName: viewStore.favoriteMovies.contains(where: { $0.id == movie.id }) ? "heart.fill" : "heart")
-                    .foregroundColor(.red)
-                    .font(.title3)
-                    .padding(8)
-                    .background(Color.red.opacity(0.1))
-                    .clipShape(Circle())
             }
-            .buttonStyle(.plain)
         }
         .padding(.vertical, 6)
         .contentShape(Rectangle())
         .onTapGesture { action() }
     }
 }
+
+struct FavoriteButton: View {
+    let isFavorite: Bool
+    let action: () -> Void
+
+    var body: some View {
+        Button(action: action) {
+            Image(systemName: isFavorite ? "heart.fill" : "heart")
+        }
+        .buttonStyle(FavoriteButtonStyle(isFavorite: isFavorite))
+        .accessibilityLabel(Text(isFavorite ? "Remove from favorites" : "Add to favorites"))
+    }
+}
+
+struct FavoriteButtonStyle: ButtonStyle {
+    let isFavorite: Bool
+
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label
+            .foregroundColor(.red)
+            .font(.title3)
+            .padding(8)
+            .background(Color.red.opacity(0.1))
+            .clipShape(Circle())
+            .scaleEffect(configuration.isPressed ? 0.9 : 1.0)
+            .animation(.easeInOut(duration: 0.2), value: isFavorite)
+            .hoverEffect(.lift)
+    }
+}
+
